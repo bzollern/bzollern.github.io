@@ -212,7 +212,7 @@ It was getting very, very late, but I was committed to holding down the graveyar
 
 We suddenly discover a basement to the factory, and I pile onto [Think Fast](https://puzzlefactory.place/basement/think-fast) because it looked interesting. Not much happens, we eventually run through everything and discover an interaction at the end, I end up not participating in said interaction because we wanted to wait for HQ to reopen and it happened while I was taking a mid-day nap.
 
-In the meantime, though, I grabbed [the puzzle labeled with a single 🐍 emoji](https://puzzlefactory.place/basement/snake) and pull through it with one other person. I then moved to [Now I Know](https://interestingthings.museum/puzzles/now-i-know) (which was most of the way through identifying all the pictures), note the seemingly omnipresent Thai theme among the images, find out that Thai calls vowels "sara", and end up going most of the way through the puzzle alone (though I still needed to ask a teammate to interpret the final cluephrase after Google Translate spat garbage at me[^thai]). 
+In the meantime, though, I grabbed [the puzzle labeled with a single 🐍 emoji](https://puzzlefactory.place/basement/snake) and pull through it with one other person. I then moved to [Now I Know](https://interestingthings.museum/puzzles/now-i-know) (which was most of the way through identifying all the pictures), guessed what the puzzle was about off vibes, and end up going most of the way through the puzzle alone (though I still needed to ask a teammate to interpret the final cluephrase after Google Translate spat garbage at me[^translate]). 
 
 I then get pulled aside briefly to look at [a beatboxing puzzle](https://puzzlefactory.place/office/the-radio), but I don't notice anything new ("ORANGE BLACK GOLD"? Really, of all the things they could have used they chose resistor code?) and instead tag to [City Placement](https://interestingthings.museum/puzzles/city-placement), a puzzle about guessing major American cities and hoping the roads around their town hall match one of the maps in the puzzle. We eventually figure out the maps come in pairs (the city hall and some random fire engine in the city for whatever reason) and that puzzle eventually falls as well.
 
@@ -246,14 +246,7 @@ We are thus given some juicy intel about teammate's prior attempts at creating p
 
 <!--![Industrial espionage]( "[2023-01-14 1847] This is a surprise tool that will come in handy about a year later.")-->
 
-I then leave to work on [Circuit](https://puzzlefactory.place/basement/circuit), which I obtain the basic rule for... to an extent.
-
-<details markdown="1">
-<summary>Spoilers for Circuit</summary>
-
-Based on the example, I deduced that a given color of resistor would implement a ROT2^(i-1) in some direction for some value of i. Though this was technically correct, there was a stricter rule involved that would have helped with the logic. 
-
-</details>
+I then leave to work on [Circuit](https://puzzlefactory.place/basement/circuit), which I obtain the basic rule for... to an extent. I was technically correct but there was a stricter rule involved that would have helped with the logic. 
 
 I leave that for [Subterranean Secrets](https://puzzlefactory.place/basement/subterranean-secrets), which had just performed the on-campus bit and found seven riddles.
 
@@ -533,7 +526,7 @@ xxx\_\_ <br />
 [^wargames]: Not the movie, the genre of board games.
 [^rimshot]: *ba-dum tss*
 [^phrases]: Teammate's last two hunts, particularly the metas, loved using nonsensical phrases for no particular reason, to my absolute frustration as I dumped a grand total of seven hints (two regular, the first of which did essentially nothing, and five followups) into one meta in 2021 due to teammate also being notably clammy when it came to hinting metas in particular. 
-[^thai]: I suspect the main problem was not realizing that Thai had a silencing diacritic. 
+[^translate]: I suspect the main problem was not realizing that the X was actually a silencing diacritic. 
 [^usb]: Yes, I know the potential hazards of plugging a random USB into a computer.
 [^four]: Since the titles of these rounds are actually spoilers for Reactivation, I will be referring to them by the words "Hole", "Expedition", "Ascent", and "Quest". Note that clicking on any given link risks spoiling some part of Reactivation.
 [^space]: Besides the aforementioned Pixel Art and 5D Diagramless (which we burned a free answer on), we had also solved [World's Largest Logic Puzzle](https://puzzlefactory.place/puzzles/worlds-largest-logic-puzzle) and burned a free answer beforehand on [Invisible](https://puzzlefactory.place/puzzles/invisible).
