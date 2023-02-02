@@ -1,5 +1,5 @@
 ---
-title: [SPOILERS] 2023 MIT Mystery Hunt Write-up
+title: (SPOILERS) 2023 MIT Mystery Hunt Write-up
 layout: post
 author: Adalbert
 tags: 
