@@ -17,6 +17,6 @@ As for interests, despite being a major in computer science at MIT, my actual pr
 ---
 
 [^name]: Pseudonym, obviously. It's tied to my identity enough for me to be comfortable using it as a real-name-equivalent while also not being my real name.
-[^heron]: This is technically a spoiler for [Mirrorball (Mystery Hunt 2017)](https://puzzles.mit.edu/2017/puzzle/mirrorball.html, but I digress.
+[^heron]: This is technically a spoiler for [Mirrorball (Mystery Hunt 2017)](https://puzzles.mit.edu/2017/puzzle/mirrorball.html), but I digress.
 [^focus]: I'll be truthful, I don't have anything worth writing paragraphs about when it comes to furry things.
-[^linguistics]: If your first instinct was to ask me how many languages I speak, you have just insulted my entire race of people. But the answer is somewhere within the range of 3-4 (English, Mandarin, Japanese, some German), with some basic Spanish and Russian and random phrasal knowledge from many other European languages. Also technically I could hold sufficient conversation in [puflantu](https://2019.galacticpuzzlehunt.com/artifacts.html) to get around the galaxy, but in practice I do not because the language is fictional.
+[^linguistics]: If your first instinct was to ask me how many languages I speak, a) that's not what linguistics is, and b) the answer is somewhere within the range of 3-4 (English, Mandarin, Japanese, some German), with some basic Spanish and Russian and random phrasal knowledge from many other European languages. Also technically I could hold sufficient conversation in [puflantu](https://2019.galacticpuzzlehunt.com/artifacts.html) to get around the galaxy, but in practice I do not because the language is fictional.
