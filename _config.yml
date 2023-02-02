@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Inert Oaken Heron
+title: The Inert Oaken Heron
 email: no
 description: >- # this means to ignore newlines until "baseurl:"
-  Just a bird tinkering with HTML. **There probably will be puzzle spoilers here, so warning about that beforehand.**
+  Just a bird tinkering with HTML. This website is not a puzzle, though you may see puzzle spoilers here. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://bzollern.github.io
 twitter_username: AdalbertZollern

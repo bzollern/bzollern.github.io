@@ -1,5 +1,5 @@
 ---
-title: \[SPOILERS\] 2023 MIT Mystery Hunt Write-up
+title: [SPOILERS] 2023 MIT Mystery Hunt Write-up
 layout: post
 author: Adalbert
 tags: 
@@ -21,6 +21,7 @@ The MIT Mystery Hunt was held online the first two years I participated, due to 
 
 Back then, I was a freshman with very little on my plate, and I would spend hours of my spare time wandering aimlessly around campus trying to recreate that feeling (or following an existing runaround, a difficult task since MIT has overhauled its layout plenty in the last few years). I spent both my past IAPs at home out of caution for rising COVID levels. It stung like a wasp covered in fire ants—being an MIT student doing the MIT Mystery Hunt but unable to be at MIT while doing so—but my health took first priority. Hunt just didn't have the feeling I was looking for.
 
+*Note: ostensibly an image would exist here and at other points throughout this post, but I haven't made any of them yet. Well, I've made this one, it's just not here.*
 <!-- ![Cosmic Rays Chandelier]( "Oh, I definitely feel THOROUGHLY CONFUSED alright.") -->
 
 Which is why, when I heard that Hunt was on campus again, I made it a heavy priority to link up with a team that could take me to the runaround. I also wanted to find the coin while I was still at MIT, because such a unique opportunity could not be more enticing. 
@@ -86,7 +87,7 @@ Conveniently enough, it's about that museum I visited the day before! And doubly
 
 No other way to go about this, then—I packed up again and made a mad dash for the second floor of the museum, immediately turning right for the tapestry scroll... to find that the mechanism for moving the scroll had inconveniently broken down at some point.
 
-![Broken tapestry]( "[2023-01-14 1703] Really? It was working just fine yesterday!")
+<!--![Broken tapestry]( "[2023-01-14 1703] Really? It was working just fine yesterday!")-->
 
 Great, that's the one part of the puzzle I actually knew the location of. There was just enough information to get the general idea of the puzzle and not enough to actually pull an answer (until teammate uploaded the tapestry as errata). 
 
@@ -99,7 +100,9 @@ Unfortunately, I couldn't exactly get the angle right, so I resorted to simply t
 I wandered the museum a bit, tried very hard to take a picture of That One Leaf at the correct angle (before giving up and just putting the best triangulation I could grab in the puzzle chat), failed to grasp the correct extraction for the sunshade (before just taking a video recording of that for later perusal), and solved the virophilia section while not knowing that there were secretly two such sections (I thought the subpuzzles were in the order you would encounter them going through the museum in the opposite direction). After doing another once-over to make sure I hadn't forgotten anything, I did the tapestry section on the stairs on the way out (because no one was working on it remotely >:V) before grabbing a dinner and rejoining the group.
 
 Someone else eventually got the leaf and the sunshade, but we were stuck on the scroll due to simply not knowing there was a museum component to it. By the time our team reached that point, though, we were long past the Science meta, and also technically had enough information to score a sidesolve.
+
 </details>
+
 
 I came back in time to help out with transcribing our extraction for [the Atrium meta](https://interestingthings.museum/puzzles/the-cafe) before jumping to transcribing [some Morse code message](https://interestingthings.museum/puzzles/great-whale-song). I had pulled out a grid and was about to start decoding the clues before someone beat me to the punch with an automatic decoder. Said decoder had no concept of line breaks, though, so the rest of the file I had opened in audacity turned out to be useful anyways.
 
@@ -131,14 +134,19 @@ I had a rather lengthy discussion with another puzzler about this subject. I sug
 I did eventually try to solve Business Cards using only knowledge my team had in its final state, throwing out the PanzerBlitz identification instead of the aha. It is theoretically possible to, at that point, figure out the cards were in alphabetical order, find [a list of cards](https://david.mcwebsite.net/ts/) that can be sorted in (quasi-)alphabetical order, guess which ones could possibly have a related board game (mostly the set relating to conflicts like Quagmire or South African Unrest), backsolve the board game by looking up the war in question and checking for the right tokens (since the subtitles will often list the war), and finish the puzzle normally from there. Part of me still wonders how this puzzle even got past testsolving in its current state, because who else would look at the card formatting, immediately scream "Twilight Struggle", and start backsolving like this?
 
 Also, to get one final nitpick out of the way: the Next War series explicitly explores near-future wars, so it can't possibly refer to an event during the Cold War. There, at least one historical inaccuracy in the puzzle.
+
 </details>
+
 
 I completely gave up on solving that for the foreseeable future, instead turning to another puzzle that was well on its way with ahas and just needed help with execution: [Catenaverbozoa](https://interestingthings.museum/puzzles/catenaverbozoa).
 
 <details>
 <summary>Spoilers for Catenaverbozoa</summary>
 
-It was a simple concept—assemble fake scientific names whose English translations are anagrams of things depicted in these boxes—but finding the right translation to anagram took considerable effort. We managed to hit it on the nail for sufficiently many of the descriptions in the first half, at which point someone just anagrammed them for the answer.</details>
+It was a simple concept—assemble fake scientific names whose English translations are anagrams of things depicted in these boxes—but finding the right translation to anagram took considerable effort. We managed to hit it on the nail for sufficiently many of the descriptions in the first half, at which point someone just anagrammed them for the answer.
+
+</details>
+
 
 At this point, I started jumping randomly between puzzles to see where I could contribute. Two physical puzzles had recently unlocked, and I was raring to go at one of them, but they wouldn't arrive for a bit. 
 
@@ -194,7 +202,9 @@ Which meant that I ended up freestyling a basket and our group promptly got stuc
 <!--![Yeet]( "[2023-01-14 0333] Basket? More like Cast It Into The Nearest Active Volcano!")-->
 
 I absolutely did not want to deal with the basket ever again, so I promptly left for greener pastures. Our team eventually got a paper copy of the wet sticks, which didn't have the problem of wiping off invisible paint attached to it, and also more clearly revealed that not all the paint went into letters.
+
 </details>
+
 
 After that whole story, I tagged onto [Word Press](https://puzzlefactory.place/factory-floor/word-press) to help with the identification effort there. Teammate really loves making puzzles out of nonsensical phrases, don't they. It's not a habit I like, because I am very bad at coming up with their nonsensical phrases[^phrases], but what's done is done, and the chat became a cacophony of puns I wanted absolutely no part in.
 
@@ -222,7 +232,9 @@ By the time I woke up again four hours later, another 24 puzzles had answers on 
 At first, of course, people were distracted by why answers had glitches applied to them, or why some were associated with the wrong round. Many theories started to emerge. Slowly, ever so slowly, we start piecing together the puzzle. Someone notices repeated bigrams in answers labeled with art (SEEING DOUBLE RAINBOW). I find an undercurrent of a country theme in those listed with tickets (COUNTRY FRIED MISTAKE), then see two Os each in those next to globes (THEY LEFT BIG INNER CIRCLES). OK, good, information to go off of, and it seems to make a bigram for each for eight letters per row. I try one of the rows and it spits out DIAB??ES, which confirms a Natural History extraction theory as well. We all start piling on the rows, someone figures out how the Science extraction works, everyone starts brainstorming how to break our eights into two fours. 
 
 We soon find that each one can be split into two words, preserving internal order, such that each word is an anagram of one of the words from the row above or below. From there it was a rush to fill out the extraction table and get the answer in.
+
 </details>
+
 
 Much of TTBNL imagined MATE going rogue at some point after the museum metameta, perhaps the most predictable twist to come out of an AI-themed anything since the 1980s. Turns out the rigor demanded of writing a Mystery Hunt alone is causing MATE to react as a typical overworked human would—surprise, AIs experience burnout too! 
 
@@ -255,14 +267,14 @@ Well, what do you do with hard drives besides plug them into the nearest compute
 
 This reveals a suite of four minipuzzles. I bounced off all of them (besides contributing one answer to the second drive after some teammates found a constellation connection), and there were really only two things left to work on.
 
-So I linked up with the crew solving the Hall of Innovation, which had made considerable progress.
+So I linked up with the crew solving the [Hall of Innovation](https://interestingthings.museum/rounds/innovation), which had made considerable progress in the meantime.
 
 <details>
 <summary>Spoilers for the Hall of Innovation</summary>
 
 The Hall of Innovation had opened up while I was asleep, and involved a number of "gizmos" scattered around the factory floor. Whenever a gizmo was interacted with, it would change the content of some puzzles in the Innovation Round in a predictable manner. This also changed its answer, which could take the form of gibberish, the empty string, or simply not exist at all.
 
-The team has, at this point, documented the effects of the nine gizmos on most of the puzzles in the round, had the correct extraction for five of the seven puzzles, and even deduced configurations that would allow for some of the puzzles to output reasonable answers (notably image ID and numberlink, with word search well on its way). In the meantime, though, they were trying to extract from everything else in order to reach the meta.
+The team has, at this point, documented the effects of the nine gizmos on most of the puzzles in the round, had the correct extraction for five of the seven puzzles, and even deduced configurations that would allow for some of the puzzles to output reasonable answers (notably Image ID and Numberlink, with Word Search well on its way). In the meantime, though, they were trying to extract from everything else in order to reach the meta.
 
 This happens around 22:30, which immediately confirms the prevailing theory and also is immediately solvable without having the other five answers. Whereupon the answer checker tells us to factcheck the puzzles first. 
 
@@ -315,6 +327,7 @@ I suggest a sample parsing of that hidden message that turns out to only be part
 Oh right, forgot to mention. teammate made this whole round, the Cosmic Discovery Expedition produced by this ASCII text cat, accept answers that included newlines, whitespace, punctuation, and the whole rest of the nine yards of ASCII.
 
 Gotta admit, that kind of curveball takes impressive amounts of audacity to pull off. It's incredible shock value. 
+
 </details>
 
 With that last solve complete, I went for a second power nap...
@@ -333,6 +346,7 @@ We start brainstorming a lot of theories about what the green cells meant, which
 As it turns out, we were still very much on the right track. We simply missed a quirk that, while present in regular chess, takes on a whole new character in the 5D field of creating timelines and boards: a "discovered check" can occur when copying a board to a new timeline if the pieces line up correctly, causing every move to that board to be a valid checkmate.
 
 <!--![5D Chess]( "[2023-01-15 1316] If I had a nickel for every time a chess puzzle wrecked my brain...")-->
+
 </details>
 
 I continued to ruminate on this for a bit until I got distracted by a puzzle from the last unlocked round, [Interpret Perplexing Texts](https://puzzlefactory.place/puzzles/interpret-perplexing-texts), to which I contributed some amount of gruntwork. 
@@ -385,6 +399,7 @@ This round's gimmick was that all answers were written in a foreign language (wi
 By now, everyone else had gotten through the part requiring Vocaloid knowledge and had tentatively assigned each answer to a vocaloid based on the blessing they took in some song (IDK Vocaloid stuff). The leading theory was that each answer was a mistranslation of one of the Japanese words, and that translating the intended Japanese term backwards would yield something.
 
 Wheels spun for about an hour before the final answer for the meta was bought, immediately upending the matching we had assumed—the Cherokee answer meaning "anxiety" was originally assigned to the blessing for whirlwinds, while the incoming answer was literally a kind of windstorm. And despite the obvious matchup there were multiple attempts to undo the change.
+
 </details>
 
 This still led to no new revelations, so I jumped to [the Hole meta](https://puzzlefactory.place/factory-floor/period-of-wyrm), which was well on its way.
@@ -399,6 +414,7 @@ Eventually, though, someone found the kicker: each pairing of answers had one "r
 However, which number went where was still a massive subject of debate. When I took a look at it, I noticed that PICO, assigned to chemistry at the time, was actually referring to the fantasy console PICO-8; this opened up a lot of ground, though the matter of reassigning TRIFORCE, in PICO's old spot, was slightly more contentious. I wanted to slot it in Hausdorff-imaginary due to the Sierpinski triangle, others wanted to put it with the jigsaw puzzler. And no one could agree on the placement of BRITAIN. Some wanted it with Jigsaw Puzzler (4). I personally was in favor of Housekeeper (9 royal houses, in the same way as the associated imaginary answer defined "house"). Eventually someone found out that Britain had a Hausdorff number attached to it, and I shot the notion down in spite of knowing about the coastline paradox and all it entailed because I still thought TRIFORCE fit better in that slot. 
 
 Eventually, though, we had enough letters we were sure of to make the right pun. Two down, two to go.
+
 </details>
 
 I then returned to Ascent, which had made almost no progress in the meantime.
@@ -442,7 +458,9 @@ Quest was a... weird round. At its core is a procedurally-generated roguelite, i
 "Count your foes carefully to map your way to victory. You might meet your match in this room!"
 
 Everyone interpreted this message in myriad different ways. I, for one, immediately took to matching monsters to answers using the description of the task and whatever else I could find. In the end, of course, I found this endeavor futile and moved back to mapping everything. 
+
 </details>
+
 </details>
 
 # Monday: Tempo rubato
@@ -466,7 +484,9 @@ A lot of things did match up—not everything, but at least more than could be a
 
 I walked back to my table to do some more mapping, perhaps to obtain a good sort order, but by that point I no longer needed to—someone had randomgrammed the meta answer using the indices. 
 
-All four metas had fallen—and that left for us only the [final capstone](https://puzzlefactory.place/factory-floor/mates-team), which was, after that colossal amount of effort put into metas, a nice breath of fresh air.</details>
+All four metas had fallen—and that left for us only the [final capstone](https://puzzlefactory.place/factory-floor/mates-team), which was, after that colossal amount of effort put into metas, a nice breath of fresh air.
+
+</details>
 
 We clocked in the final answer at 4 AM. Teammate immediately called us to schedule a runaround. Immediately afterwards, we received an announcement e-mail ominously stating that "the coin will have been found" by Monday morning.
 
@@ -500,11 +520,11 @@ See y'all next year.
 
 ---
 
-_xxx_
-x_xxx
-_xx__
-_xxxx
-xxx__
+\_xxx\_
+x\_xxx
+\_xx\_\_
+\_xxxx
+xxx\_\_
 
 ---
 
