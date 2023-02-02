@@ -80,7 +80,7 @@ With that, the load times were no longer an issue, and I could actually look at 
 
 Right after we solve it, we find [a puzzle requiring on-campus presence](https://interestingthings.museum/puzzles/a-trip-to-the-museum).
 
-<details>
+<details markdown="1">
 <summary>Spoilers for A Trip to the Museum</summary>
 
 Conveniently enough, it's about that museum I visited the day before! And doubly-conveniently, I happened to be at Stata, meaning I was probably the closest person to the location.
@@ -122,7 +122,7 @@ OK, time to grind through identification... oh, I forgot Tineye and Google Lens 
 
 <!--![On second thought, no]( "[2023-01-13 2230] ...oh, schist.")-->
 
-<details>
+<details markdown="1">
 <summary>Spoilers for Business Cards</summary>
 
 There were a great many aspects to the puzzle that soured it for me. Ostensibly I should be over the moon that this puzzle exists, but subject material alone does not a favorite puzzle make.
@@ -140,7 +140,7 @@ Also, to get one final nitpick out of the way: the Next War series explicitly ex
 
 I completely gave up on solving that for the foreseeable future, instead turning to another puzzle that was well on its way with ahas and just needed help with execution: [Catenaverbozoa](https://interestingthings.museum/puzzles/catenaverbozoa).
 
-<details>
+<details markdown="1">
 <summary>Spoilers for Catenaverbozoa</summary>
 
 It was a simple concept—assemble fake scientific names whose English translations are anagrams of things depicted in these boxes—but finding the right translation to anagram took considerable effort. We managed to hit it on the nail for sufficiently many of the descriptions in the first half, at which point someone just anagrammed them for the answer.
@@ -162,7 +162,7 @@ The clock tipped past midnight. It's been 11 hours since hunt started. No harm i
 
 By now, the physical puzzles had arrived. I immediately moved to the table with the wooden sticks for [Weaver](https://interestingthings.museum/puzzles/weaver), which we immediately turn into a classic weave.
 
-<details>
+<details markdown="1">
 <summary>Spoilers for Weaver</summary>
 
 <!--![Classic]( "[2023-01-14 0031] It's a board!")-->
@@ -226,7 +226,7 @@ At this point it's nearing ten AM, and the tiredness was really starting to take
 
 By the time I woke up again four hours later, another 24 puzzles had answers on them, including Business Cards (which had a free answer token used on it), Weaver, and [the three](https://interestingthings.museum/puzzles/the-king) [remaining metas](https://interestingthings.museum/puzzles/artistic-vision) [in the Museum](https://interestingthings.museum/puzzles/a-conspiracy-network). Which means I was right on time to help out with the [museum metameta](https://puzzlefactory.place/factory-floor/mates-meta).
 
-<details>
+<details markdown="1">
 <summary>Spoilers for MATE's Meta</summary>
 
 At first, of course, people were distracted by why answers had glitches applied to them, or why some were associated with the wrong round. Many theories started to emerge. Slowly, ever so slowly, we start piecing together the puzzle. Someone notices repeated bigrams in answers labeled with art (SEEING DOUBLE RAINBOW). I find an undercurrent of a country theme in those listed with tickets (COUNTRY FRIED MISTAKE), then see two Os each in those next to globes (THEY LEFT BIG INNER CIRCLES). OK, good, information to go off of, and it seems to make a bigram for each for eight letters per row. I try one of the rows and it spits out DIAB??ES, which confirms a Natural History extraction theory as well. We all start piling on the rows, someone figures out how the Science extraction works, everyone starts brainstorming how to break our eights into two fours. 
@@ -248,7 +248,7 @@ We are thus given some juicy intel about teammate's prior attempts at creating p
 
 I then leave to work on [Circuit](https://puzzlefactory.place/basement/circuit), which I obtain the basic rule for... to an extent.
 
-<details>
+<details markdown="1">
 <summary>Spoilers for Circuit</summary>
 
 Based on the example, I deduced that a given color of resistor would implement a ROT2^(i-1) in some direction for some value of i. Though this was technically correct, there was a stricter rule involved that would have helped with the logic. 
@@ -269,7 +269,7 @@ This reveals a suite of four minipuzzles. I bounced off all of them (besides con
 
 So I linked up with the crew solving the [Hall of Innovation](https://interestingthings.museum/rounds/innovation), which had made considerable progress in the meantime.
 
-<details>
+<details markdown="1">
 <summary>Spoilers for the Hall of Innovation</summary>
 
 The Hall of Innovation had opened up while I was asleep, and involved a number of "gizmos" scattered around the factory floor. Whenever a gizmo was interacted with, it would change the content of some puzzles in the Innovation Round in a predictable manner. This also changed its answer, which could take the form of gibberish, the empty string, or simply not exist at all.
@@ -288,7 +288,7 @@ While this was going on, I was keeping tabs on the progress of Reactivation. One
 
 # Sunday: Subito prestissimo affrettando
 
-<details>
+<details markdown="1">
 <summary>This section is defensively spoilered, since it contains late-hunt spoilers.</summary>
 
 ...the power goes out around us, the gizmos stop working, and we receive a rather threatening visit from teammate informing us that Mystery Hunt was cancelled.
@@ -317,7 +317,7 @@ Though I wouldn't exactly catch my Zs just yet.
 
 As I arrived home, I decided to check in on one of the voice chats; someone was hammering out code to extract things from [Pixel Art](https://puzzlefactory.place/puzzles/pixel-art), and had already found steganographic information from everywhere under the sun, including short-circuiting one of the steps to find a hidden message in the fourth red bit early. 
 
-<details>
+<details markdown="1">
 <summary>Spoilers for Pixel Art and the Expedition Round in general</summary>
 
 I suggest a sample parsing of that hidden message that turns out to only be partly correct; someone corrects me on the blue parse, and the two together manage to produce a cogent image cluing the answer to this puzzle...
@@ -338,7 +338,7 @@ I walk back into HQ at around 10:30 AM. One solve has happened in the meantime, 
 
 I jump onto [5D Barred Diagramless With Multiverse Time Travel](https://puzzlefactory.place/puzzles/5d-barred-diagramless-with-multiverse-time-travel), which seemed fairly self-explanatory—the diagramless part was mid-way through being assembled when I found it, so I helped pull it through and then used the context to construct some chessboards.
 
-<details>
+<details markdown="1">
 <summary>Spoilers for 5D Barred Diagramless</summary>
 
 We start brainstorming a lot of theories about what the green cells meant, which involved plenty of crackpottery on my part before we settled on the obvious answer of "checking a king in the past". We then start debating the rules of 5D Chess; I had watched the video on the topic before and decided to break off into my own grid after deciding the debating was going nowhere. However, by all metrics possible, we were only finding five possible squares despite the puzzle claiming 22. Double-checking my work ends up with the same result, and I eventually drift off the puzzle to find other work to do...
@@ -391,7 +391,7 @@ Confused, we immediately burn a free answer token on one of them. Fortunately we
 
 This was it. No more puzzles to unlock, just three metas (and a metameta) between us and the end. I had started a run on Quest in the meantime, which I got stuck on due to a lack of answers, before turning to look at Ascent, which was already at 8/9 bought answers.
 
-<details>
+<details markdown="1">
 <summary>Spoilers for the Ascent Round and its meta</summary>
 
 This round's gimmick was that all answers were written in a foreign language (with the puzzles themselves also being generally centered around said language/culture). I didn't know much about the feeders—the only puzzle I even partially worked on in the round being a fill-in crisscross featuring German compound words—but I was ready to give the meta a shot.
@@ -404,7 +404,7 @@ Wheels spun for about an hour before the final answer for the meta was bought, i
 
 This still led to no new revelations, so I jumped to [the Hole meta](https://puzzlefactory.place/factory-floor/period-of-wyrm), which was well on its way.
 
-<details>
+<details markdown="1">
 <summary>Spoilers for the Hole meta</summary>
 
 It was pretty clear that each of the "people" in the meta was meant to match to two of the answers, so we start matching. A couple of the pairings were... questionable at best, especially when it came to shoving BRITAIN into a category.
@@ -419,7 +419,7 @@ Eventually, though, we had enough letters we were sure of to make the right pun.
 
 I then returned to Ascent, which had made almost no progress in the meantime.
 
-<details>
+<details markdown="1">
 <summary>More spoilers for the Ascent round and meta</summary>
 
 It seemed like people had started making crackpot theories and pursuing them in other sheets. One was trying to associate the languages to the clues based on vibes only—which, I will admit, I wouldn't put it past teammate to do[^vibes]. 
@@ -450,7 +450,7 @@ It was good to know my latent Japanese knowledge was good for something.
 
 Solving that left exactly one puzzle to crack: the [meta for Quest](https://puzzlefactory.place/factory-floor/conjuris-request).
 
-<details>
+<details markdown="1">
 <summary>Spoilers for the Quest round and meta</summary>
 
 Quest was a... weird round. At its core is a procedurally-generated roguelite, involving walking between rooms, fighting monsters that gave minipuzzles as challenges, finding keys in chests locked by puzzles (of course), and using those keys to unlock doors to access more puzzles. Eventually, with enough keys, one would encounter a boss gauntlet consisting of some number of all the monsters in the dungeon, as well as a cryptic message... 
@@ -467,7 +467,7 @@ Everyone interpreted this message in myriad different ways. I, for one, immediat
 
 Time soon slipped over into Monday. Still no sign of anyone having found the coin, and still no end in sight for this last meta.
 
-<details>
+<details markdown="1">
 <summary>This section is defensively spoilered, since it contains late-hunt spoilers.</summary>
 
  Nothing to do but keep mapping and hope things line up. I had enough knowledge of how the game worked at this point to solo this task. At the end of the first run I tried to map, though, I was quit out of the game for unknown reasons. When I tried to start up another save, the same thing happened right at the start, which irked me enough to ping everyone about it. I eventually got one complete run.
