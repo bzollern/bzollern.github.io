@@ -21,8 +21,7 @@ The MIT Mystery Hunt was held online the first two years I participated, due to 
 
 Back then, I was a freshman with very little on my plate, and I would spend hours of my spare time wandering aimlessly around campus trying to recreate that feeling (or following an existing runaround, a difficult task since MIT has overhauled its layout plenty in the last few years). I spent both my past IAPs at home out of caution for rising COVID levels. It stung like a wasp covered in fire ants—being an MIT student doing the MIT Mystery Hunt but unable to be at MIT while doing so—but my health took first priority. Hunt just didn't have the feeling I was looking for.
 
-*Note: ostensibly an image would exist here and at other points throughout this post, but I haven't made any of them yet. Well, I've made this one, it's just not here.*
-<!-- ![Cosmic Rays Chandelier]( "Oh, I definitely feel THOROUGHLY CONFUSED alright.") -->
+![Cosmic Rays Chandelier](/assets/mh2023/wistful.png "Oh, I definitely feel THOROUGHLY CONFUSED alright.")
 
 Which is why, when I heard that Hunt was on campus again, I made it a heavy priority to link up with a team that could take me to the runaround. I also wanted to find the coin while I was still at MIT, because such a unique opportunity could not be more enticing. 
 
@@ -30,6 +29,7 @@ Which, given how much teams seem to (a) not want to win because writing the Myst
 
 Unfortunately, even teammate couldn't have made that call for me. Shortly after matching and confirming that the team I matched wasn't actively gunning for a win, I asked if there were any teams that were (and were open to taking people). As it turns out, the answer was "very much no". There was only one team in the entire top 20 that indicated even an iota of interest in winning during registration, which does not seem good for the future of Hunt.
 
+*Note: ostensibly an image would exist here and at other points throughout this post, but I haven't made most of them yet. If you want to see what would have been here, the syntax is commented out.*
 <!-- ![Buried in wrenches]( "This sh-t hits worse than COVID.") -->
 
 My priorities started shifting. I decided to expand my list of options. After confirming that taking a second matching wasn't binding, I took the mulligan and got matched to The Team Formerly Known As The Team Formerly Known As The Team Formerly Known As The Team Formerly Known As The Team Formerly Known As The Team To Be Named Later. (That was a mouthful, and I'm abbreviating that to TTBNL from now on should I choose to use the name at all.)
