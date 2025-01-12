@@ -10,7 +10,7 @@ So yeah, breaking news: I'm a bird on the internet.
 
 And, as of March 2024, also a bird in real life!
 
-![Fursuit](/assets/adalbert_fursuit.HEIC "Not pictured: arm sleeves and footclaws.")
+![Fursuit](/assets/adalbert_fursuit.png "Not pictured: arm sleeves and footclaws.")
 
 _Suit by [MenagerieWorkshop](https://menagerieworkshop.com/)._
 
