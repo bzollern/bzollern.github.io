@@ -156,11 +156,11 @@ I'm bad at words, what can I say. CARDSHARK hardly came to mind (though in my de
 
 D&M borrowed teammate's modus of interactive cutscenes for these post-meta interactions, and we kept steering it onto the most... interesting dialogue option possible. With that out of the way, though, new round! I compiled a list of backsolve answers and moved on.
 
-We then sunk almost all of our extant keys at the time on the five open puzzles in the new round, Background Check, not realizing that _all of them were hard_, and _especially_ not realizing that this was probably the hardest round in the hunt.
+We then sunk almost all of our extant keys at the time on the five open puzzles in the new round, Background Check... not realizing that _all of them were hard_, and _especially_ not realizing that this was probably the hardest round in the hunt.
 
 Not knowing this, I took a brief look at [He Shouldn't Have Eaten The Apple](https://www.two-pi-noir.agency/puzzles/he_shouldnt_have_eaten_the_apple), which had a... rather large amount of descriptions of historical sites. Supposedly. In reality they made no sense in at least two places.
 
-One place I could handle—they gave potential replacements below the lines, I could see places where a few of them could fit, and the words they replaced were particularly vowel-dense, which meant they would probably spell something. But even after this replacement they made very little sense—I could know, for example, that the Temple of Bel in Palmyra was involved somehow, but the description didn't square with what I (or Wikipedia) knew about the Temple.
+One place I could handle—they gave potential replacements below the lines, I could see places where a few of them could fit, and the first letters of the words they replaced were particularly vowel-dense, which meant they would probably spell something. But even after this replacement they made very little sense—I could know, for example, that the Temple of Bel in Palmyra was involved somehow, but the description didn't square with what I (or Wikipedia) knew about the Temple.
 
 Too hard for one brain. I left it be.
 
@@ -266,7 +266,7 @@ Interestingly, we were also very close to backsolving it, having reduced the opt
 
 </details>
 
-While that was going on, though, I plugged a key into a puzzle whose title was in a Brahmic script. I'm a simple bird. I see title in interesting foreign script, I click.
+While that was going on, though, I plugged a key into [a puzzle whose title was in a Brahmic script](https://www.two-pi-noir.agency/puzzles/%E0%B2%95%E0%B2%BE%E0%B2%AC%E0%B2%B5%E0%B2%A6%E0%B3%8B%E0%B3%80%E0%B3%8D). I'm a simple bird. I see title in interesting foreign script, I click.
 
 <details markdown="1">
 <summary>Spoilers for ಕಾಬವದೋೀ್</summary>
@@ -301,7 +301,7 @@ Eventually I'd piece together that some of them were in approximately the same l
 
 Some of us in fact went to the Chord, and found nothing of particular interest there.
 
-Now stuck, I swapped onto a bunch of different puzzles again. First I tried [A Map And A Shade (Or Four)](https://www.two-pi-noir.agency/puzzles/a_map_and_a_shade_or_four), which we knew the basic gist of (four color map theorem) but kept running into contradictions when trying to apply it to a world map, no matter what we tried.
+Now stuck, I swapped onto a bunch of different puzzles again. First I tried [A Map And A Shade (Or Four)](https://www.two-pi-noir.agency/puzzles/a_map_and_a_shade_or_four), which we knew the basic gist of (four color map theorem) but kept running into contradictions when trying to apply it to a world map, no matter what we tried. (I would later learn, after it had been solved by others, that it was a map of the US, to my dismay at not realizing this sooner.)
 
 I then peeked at [Absolutely Not Balderdash](https://www.two-pi-noir.agency/puzzles/absolutely_not_balderdash). Recognizing each set contained a surprisingly uniform distribution of rare letters, I guessed it was Scrabble-related and took a letter count of each to confirm this theory. I then answered a few clues and then realized those, too, were scrabble-distribution.
 
@@ -318,11 +318,11 @@ Of course, I had to take this one as the MITGuessr person. (This makes three puz
 
 The last image piqued my interest, though, because it was a picture of the radio face. Immediately I asked around for the radio... which was noticeably absent from the room.
 
-Turns out we had unlocked a different radio puzzle earlier—the one asking for a performance of the Star-Spangled Banner—and the resident radiohead (Grackle) had seemingly disappeared to some other room to practice.
+Turns out we had unlocked [a different radio puzzle earlier](https://www.two-pi-noir.agency/puzzles/trainees_first_recital)—the one asking for a performance of the Star-Spangled Banner—and the resident radiohead (Grackle) had seemingly disappeared to some other room to practice.
 
 Welp, leave a ping and put a pin in it for now; Chinatown had made some progress in the meantime (due to incidental airwave interception, no less), and we'd sent some people on campus to investigate. Apparently the relevant information was stashed under the benches? Who'd've guessed[^benches].
 
-Eventually the radio came back, and I took it to the first location (conveniently just outside our HQ). I flipped it to FM (as the puzzle indicated) and began to search... and did in fact hear [something unexpected](https://www.youtube.com/watch?v=dQw4w9WgXcQ).
+Eventually the radio came back, and I took it to the first location (conveniently just outside our room). I flipped it to FM (as the puzzle indicated) and began to search... and did in fact hear [something unexpected](https://www.youtube.com/watch?v=dQw4w9WgXcQ).
 
 <!--![Ugh]( "[2025-01-18 1638] ♫ Never gonna see it coming ♫")-->
 
@@ -342,9 +342,9 @@ All told, I spent 2 hours on campus[^oncampus], met with the Chinatown contingen
 
 Even then, I still didn't have a sort order. I knew the text was important somehow, but I had already spent 2 hours with the radio.
 
-In all, it felt like a puzzle that didn't respect solvers' time. And I already have very strong feelings about puzzles that intentionally waste solvers' time. Hell, even HQ seemed to encourage it, given their hint they gave on the puzzle was an uncharacteristically unhelpful "try looking at the puzzle". Twice.
+In all, it felt like a puzzle that didn't respect solvers' time. And I already have very strong feelings about puzzles that intentionally waste solvers' time. Hell, even Hunt HQ seemed to encourage it, given the hint they gave on the puzzle was an uncharacteristically unhelpful "try looking at the puzzle". Twice.
 
-I got back to HQ at around 7:00, very annoyed. Sniper commented that it was a "Never Gonna Give You Up Run Around", emphasizing the last two words (which happened to be a lyric in that song). 
+I got back to our room at around 7:00, very annoyed. Sniper commented that it was a "Never Gonna Give You Up Run Around", emphasizing the last two words (which happened to be a lyric in that song). 
 
 I could only respond to that sting with "This puzzle let me down. Hard." Which was essentially an invitation to get barraged with every other lyric in the chorus.
 
@@ -391,7 +391,7 @@ We gathered at Lobby 10 to strategize. While there, Grackle and I checked the ch
 
 ![blind birds](/assets/mh2025/blind.png "[2025-01-18 2214] Brds")
 
-We soon finish strategizing and walk back to HQ to work on puzzles in advance of the next appointment at 2300. I was kicking myself the whole way for not noticing. Grackle stopped by the piano in Building 26 and spent the time between scavenger hunts playing it. 
+We soon finish strategizing and walk back to the room to work on puzzles in advance of the next appointment at 2300. I was kicking myself the whole way for not noticing. Grackle stopped by the piano in Building 26 and spent the time between scavenger hunts playing it. 
 
 Despite that minor setback, I enjoyed the puzzle as a whole, and it did basically everything right with respect to the use of the language. I couldn't ask for more. (Why am I making this comment? ...you'll see.)
 
@@ -407,7 +407,7 @@ The key went to a new puzzle, and the moment someone said the word "Lingo" the e
 
 ...OK, we kind of knew a Lingo puzzle was coming just from incidental commentary. Between collective word knowledge, personal knowledge, and just cheesing the resistor-reading step (once I knew how it would work) by measuring ratios, it got torn apart in 40 minutes. In the meantime, the others had finished off He Shouldn't Have Eaten the Apple, which resulted in a message being blared over the radio. Hearing an interesting historical tidbit, I looked into the answer, to realize it was the same as Bukhansan—a name I recognized from *somewhere*, but wasn't sure where.
 
-Back to Tunic—Ryker (aforementioned fox) had finished the manual step at this point. I started writing the answers out in the hexagon script. Some looked like they were a transformation of the other... or at least suspiciously similar to such.
+Back to Tunic—Ryker (aforementioned fox) had finished the manual step at this point. I started writing the answers out in the hexagon script. Some looked like they were a geometric transformation of another... or at least suspiciously similar to such.
 
 It made sense. Not enough sense, though, given we couldn't find matches for a few of them. It was almost certainly right, though, since it also created a mechanism to convert our nonsense syllables into sensical ones. 
 
@@ -415,7 +415,7 @@ It was getting late, so we packed things up again. This time, when I got back, I
 
 ![Bad language usage](/assets/mh2025/eigenletter.png "[2025-01-19 0324] SUN / CLOTH COVER / CART")
 
-aaaaaaaaaAAAAAAAAAAAAAAA*AAAAAAAAAAAAAAAAA*——
+...aaaaaaaaaAAAAAAAAAAAAAAA*AAAAAAAAAAAAAAAAA*——
 
 # Romance
 
@@ -485,7 +485,7 @@ However, Shell 8 was closer to completion, so I just hopped onto that, realized 
 
 </details>
 
-I held off on helping the metameta for the moment while I did extraction work on [Passage of Time](https://www.two-pi-noir.agency/puzzles/passage_of_time), but swapped back on afterwards. By now it was 1930, two and a half hours to HQ closing. Basically every puzzle was either solved, was well on its way to being solved, or had a "clue" (free answer) used on it, so it was just meta duty. Given the Nashville surprise and our lack of progress on Background Check, we probably weren't getting a runaround.
+I held off on helping the metameta for the moment while I did extraction work on [Passage of Time](https://www.two-pi-noir.agency/puzzles/passage_of_time), but swapped back on afterwards. By now it was 1930, two and a half hours to Hunt HQ closing. Basically every puzzle was either solved, was well on its way to being solved, or had a "clue" (free answer) used on it, so it was just meta duty. Given the Nashville surprise and our lack of progress on Background Check, we probably weren't getting a runaround.
 
 <details markdown="1">
 <summary>Back to Paper Trail.</summary>
@@ -494,7 +494,7 @@ Naturally, we thought the way the meta answers fed into each other would be rele
 
 Our initial theories revolved around word transformations. In particular, the book on the round page for Paper Trail was suspicious: eight bullet points for eight metas, and at least one of them looked like a wordplay transformation that could very well be used on two of the feeder answers! Surely this is right, right?
 
-Well, news from HQ: it's not right. In fact, the entire book is irrelevant to the meta.
+Well, news from Hunt HQ: it's not right. In fact, the entire book is irrelevant to the meta.
 
 ![Fish](/assets/redfish.png "[2025-01-19 2000] Many such cases.")
 
@@ -518,7 +518,7 @@ Completing the graph, and defining the trails to the hidden company (which I cal
 
 Less than an hour left. But just five minutes after finishing off Paper Trail, we also solve the [*second* Illegal Search meta](https://www.two-pi-noir.agency/puzzles/papas_stash). Of course, Nashville surprise (again, again), this time featuring alternate extractions from the five post-lock puzzles (flavored as shining a blacklight on the relevant objects, another escape room trope). I fast-tracked the second extraction for Jargon; the others fell in short order to either a cursory glance or the force of a magnifying glass thrown at Mach 2.
 
-So by rule of three, this must be the last meta in the round, right? Maybe we can make this a four-round solve before HQ closes.
+So by rule of three, this must be the last meta in the round, right? Maybe we can make this a four-round solve before Hunt HQ closes.
 
 Unfortunately, even with the telephone message that we knew was coming for Chekhov's gun reasons, we still didn't manage to find the right books in time. I even attempted a brute-force approach (that ended up not panning out because I forgot it was indexing into the answers).
 
@@ -540,7 +540,7 @@ I've lived alone in my dorm room for about as long as I've been on campus, so po
 
 While this would have been a good way to wind down, I could never truly get the overtime mentality out of my head. We were pretty close to closing out the hunt, after all—just two rounds and four metas. How hard could it be?
 
-So while the rest of the group was listening to... something I can't even begin to describe, I pulled out a computer and started hacking away at them, focusing on [Papa's Bookcase](https://www.two-pi-noir.agency/puzzles/papas_bookcase_blacklight) for now. Since HQ was closed, I had to make do with asking the nearest possible source of hints, which in this case meant Taph (a friend on ✈️✈️✈️GT✈️✈️✈️ who we had invited over).
+So while the rest of the group was listening to... something I can't even begin to describe, I pulled out a computer and started hacking away at them, focusing on [Papa's Bookcase](https://www.two-pi-noir.agency/puzzles/papas_bookcase_blacklight) for now. Since Hunt HQ was closed, I had to make do with asking the nearest possible source of hints, which in this case meant Taph (a friend on ✈️✈️✈️GT✈️✈️✈️ who we had invited over).
 
 Well, the linchpin in the solution was load-bearing flavortext—we somehow never read too deeply into the word "audible" (which did double-duty this time). OK, so how are we going to identify the audiobooks? 
 
@@ -573,7 +573,7 @@ I had noticed the property for some of them (having looked at Samgaksan when Ada
 
 I took the opportunity to confirm that, yes, there were 9 letter-slots in both Oversight and Grand Illusion, and found a bunch of the alternate names.
 
-It's crazy (positive) that they made this work. But it's also crazy (negative) that they didn't really leave breadcrumbs on that particular trail—the largest is the already-overloaded title and flavortext, and there's a lot of words that do double-duty there.
+It's crazy (positive) that they made this work. But it's also crazy (negative) that they didn't really leave breadcrumbs on that particular trail—the most visible is the already-overloaded title and flavortext, and there's a lot of words that do double-duty there.
 
 ---
 
@@ -592,7 +592,6 @@ End scene.
 This hunt had a rather higher variance than my past hunt experiences. If my 2022 were a dromedary[^distribution], a mostly uniform experience[^uniform], 2025 would be a Bactrian: good experiences were generally extremely good, bad experiences tended to be extremely frustrating, and both were doled out in approximately equal measure (though take this with a big grain of salt; I didn't particularly emphasize the kind of experience they were prioritizing). If their goal was to make a memorable hunt, they certainly succeeded at that.
 
 It speaks to the effort, though: high-effort things tend to be more polarizing. Which... well, explains the existence of Discourse™ better than anything else I can think of.
-
 
 <details markdown="1">
 <summary><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Content warning: opinions</a></summary>
