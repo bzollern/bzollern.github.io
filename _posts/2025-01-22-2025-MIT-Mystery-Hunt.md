@@ -22,7 +22,7 @@ I was originally planning on arriving to campus two weeks before, to coincide wi
 
 The Tuesday before Hunt is almost always a Puzzled Pint day[^pint], and there happened to be some puzzlers in town a week in advance, so that was the first thing I went to. I spent 30 minutes on puzzles and an hour waiting for food, because the Tasty Burger it was hosted at was not expecting this number of people to visit that evening.
 
-Ah, puzzlers. HTTP Error 500-ing sites even in real life.
+Ah, puzzlers—HTTP Error 500-ing sites even in real life. I should have gone to the Shake Shack across the street.
 
 Next came Thursday, the day before hunt, when most people are just starting to arrive. Some people had bunched around the Banana Lounge[^banana], so I went there to hang out for a bit, which mostly consisted of watching one of them play modded Minecraft.
 
@@ -36,9 +36,9 @@ I flew over to Le Meridien afterwards to visit some more people, chatting with a
 
 Not the only time I would be called a cardinal that weekend. But I'm getting ahead of myself.
 
-We headed back to campus afterwards, since I didn't feel like sitting at home for 3 hours before How to Hunt happened. I solved a few past Puzzled Pints in the meantime.
+We headed back to campus afterwards, since I didn't feel like sitting at home for 3 hours. I solved a few past Puzzled Pints in the meantime.
 
-Then came How to Hunt, which I had a semi-obligation to attend as a past member of (TTFKA){6}TTBNL[^howto]. John, of course, brought All The Energy to the conversation, which definitely made me crack up once or twice.
+Then came [How to Hunt](https://www.youtube.com/watch?v=3exTRYqJadM), which I had a semi-obligation to attend as a past member of (TTFKA){6}TTBNL[^howto]. John, of course, brought All The Energy to the conversation, which definitely made me crack up once or twice. (Also +1 to the cardinal counter from an audience member.)
 
 As soon as it was done, I rushed over to the T Stop and rode it to the World Trade Center[^wtc].
 
@@ -62,7 +62,7 @@ Of course, socializing doesn't stop just because it's Friday, so I hung around a
 
 At 11, my team broke away to drop some things off at our room. Then we headed our separate ways for kickoff.
 
-Kickoff is normally[^kresge] held at Kresge, the large auditorium just west of Mass Ave. This year, that wasn't possible due to MIT starting construction in the area, so D&M split kickoff between three smaller auditorium-like rooms. Each one consisted of a small skit by live actors, different between locations, before playing a video for the rest.
+[Kickoff](https://www.youtube.com/live/cWPZ61YgY6s) is normally[^kresge] held at Kresge, the large auditorium just west of Mass Ave. This year, that wasn't possible due to MIT starting construction in the area, so D&M split kickoff between three smaller auditorium-like rooms. Each one consisted of a small skit by live actors, different between locations, before playing a video for the rest.
 
 To make a long story very, very short: the engagement party is interrupted because someone stole a diamond, the family calls on a private investigator to determine who stole it, the P.I. hires us, something something puzzles solve everything, also here's a radio, back to your rooms you go.
 
@@ -84,7 +84,7 @@ I look around for other things to do. Apparently someone's already hauled back [
 
 I immediately call the assemblage out as a Brass Rat[^brass], go on to explain how the rest of the puzzle data supports this, direct them to the site with all the data, and promptly walk away because I wanted to look at something else. Perks of being an MIT student.
 
-When I came back, Sniper (the cat sitting next to me at the time) was working on... [a copypasta](https://www.two-pi-noir.agency/puzzles/%F0%9F%93%91%F0%9F%8D%9D)? He had deduced that he needed to send the pasta to other Mystery Hunt teams, in order to collect data for the puzzle.
+When I came back, Sniper (seated next to me at the time) was working on... [a copypasta](https://www.two-pi-noir.agency/puzzles/%F0%9F%93%91%F0%9F%8D%9D)? He had deduced that he needed to send the pasta to other Mystery Hunt teams, in order to collect data for the puzzle.
 
 The problem? We were apparently the first ones on that puzzle. Every team he tried was very confused. He asks me to send one over to TTBNL (knowing I had just written with them last year).
 
@@ -136,7 +136,7 @@ I found something else to occupy my attention eventually: we had unlocked two of
 
 We were originally trying to match puzzles to metas based on whether the text given after a puzzle solve used the character's name. I pretty quickly decided that the text was completely useless for meta-matching, since I found a relatively straightforward mechanic for matching an answer to a poker suit and half of the initially-matched answers did not do that. I then backpedalled on that statement immediately when I found where the number came from.
 
-Great, we now have five cards and an extremely clear mechanic for matching them to the puzzles (which took some time to figure out). Surely this would be easy... but, well, missing two cards meant the solution was a lot less constrained. I eventually logicked out which two cards we needed to fill in the hole and promptly attempted to find a list of backsolve answers. I found one that fit the ace of hearts, but didn't submit it to anything, instead trying to solve the meta with the fake answer.
+Great, we now have five cards and an extremely clear mechanic for matching them to the tables (which took some time to figure out). Surely this would be easy... but, well, missing two cards meant the solution was a lot less constrained. I eventually logicked out which two cards we needed to fill in the hole and promptly attempted to find a list of backsolve answers. I found one that fit the ace of hearts, but didn't submit it to anything, instead trying to solve the meta with the fake answer.
 
 I soon worked out an answer of FACE CARD SHARES.
 
@@ -144,7 +144,7 @@ Now, I didn't know what a card share was (if anything), but seeing FACE CARD mad
 
 I still thought the answer seemed legitimate, though, so I chose to listen in on the puzzle I thought it was the best fit for, just to check. As it happened, the answer was slated to have thirteen letters, and the solvers there had just figured out extraction.
 
-It was for the other card... which really just seemed to confirm the initial theory. Juro then filled in the rest of the pun for me.
+It was for the other card... which really just seemed to confirm the initial theory. Juro then filled in the rest of the pun for me (and found the right backsolve answer for good measure).
 
 I'm bad at words, what can I say. CARDSHARK hardly came to mind (though in my defense I'm more familiar with the non-eggcorned version, CARD SHARP).
 
@@ -184,7 +184,7 @@ Before I started, though, something on-site demanded my attention.
 
 Three hours earlier, I noticed that we had unlocked a [Fermi estimation challenge](https://www.two-pi-noir.agency/puzzles/estimation_dot_jpg) as a quasi-event-y thing. It said MIT knowledge was useful, but I considered myself pretty bad at actually doing Fermi estimation, so I didn't go the first time.
 
-Well, as it turns out, MIT knowledge was _very_ useful. Like, _every question_ useful. And apparently a few of the questions were actually Geoguessr problems. Also the result you got back was overly abstract unless you got a very accurate number.
+Well, newsflash: MIT knowledge was _very_ useful. Like, _every question_ useful. And apparently a few of the questions were actually Geoguessr problems. Also the result you got back was overly abstract unless you got a very accurate number.
 
 So I went to the room and guesstimated to the best of my ability. At least, I hope my guesses were saner than the people in the other corner who kept guessing multiples of π[^fermi] for an obviously integral number of things.
 
@@ -199,7 +199,7 @@ And just like WLLP, it was also secretly circuitry. Well, I say secretly, but it
 
 The grid was dissectable into sections. Someone had already categorized the larger sections into 36 types (even noting that two of the categories were direct opposites of each other), so I went for the smaller sections, which I surmised could be filled one of several ways depending on what was being carried.
 
-We spent an hour trying to fill out the components, only figuring out what the 1 and 0 clues really were once we had filled in one. Another hour later, and I had all the components... and promptly discovered that the second layer was a Kakurasu.
+We spent an hour trying to fill out the components, only figuring out what the 1 and 0 clues really were once we had filled one in. Another hour later, and I had all the components... and promptly discovered that the second layer was a Kakurasu.
 
 Another half-hour of twiddling and we figured out what each of the major components did, and someone promptly solved the 6x6 border-drawing puzzle. Yep, definitely WLLP-coded.
 
@@ -219,7 +219,7 @@ One look at the answers later... oh. There's a length ordering that everyone mis
 
 Fresh eyes save lives. Unfortunately we also timed ourselves out with our three million anagram/transaddition attempts, so we had to wait until 2330.
 
-More on the fourth round later; we realized that we needed to start on the mid-hunt runaround basically immediately to finish it before the end-of-day period kicked in. So a large group of us went up to the Gala, had the radio tuned to the right station, and proceeded to get absolutely lost around the Building 13 segment of the chase.
+More on the fourth round later; we realized that we needed to start on the [mid-hunt runaround](https://www.two-pi-noir.agency/puzzles/the_thief) basically immediately to finish it before the end-of-day period kicked in. So a large group of us went up to the Gala, had the radio tuned to the right station, and proceeded to get absolutely lost around the Building 13 segment of the chase.
 
 Just for fun, I did this part in suit. I tripped over my own feet a few times. Worth.
 
@@ -263,7 +263,7 @@ While that was going on, though, I plugged a key into a puzzle whose title was i
 <details markdown="1">
 <summary>Spoilers for ಕಾಬವದೋೀ್</summary>
 
-And fortunately, I am enough of a keyboard nerd to instantly see the puzzle was about  keyboards just from looking at the Hebrew text.
+And fortunately, I am enough of a keyboard nerd to instantly see the puzzle was about keyboards just from looking at the Hebrew text.
 
 ![Exhibit A](/assets/mh2025/keyboards.png "[2025-01-18 0930] After all, why shouldn't I be able to type all these symbols? I'm studying linguistics!")
 
@@ -285,7 +285,7 @@ When I got back, I was cued into [a puzzle with one long poem](https://www.two-p
 
 By the time that was done, we had unlocked the Chinatown meta. And for... obvious reasons... I got stuck on Geoguessr duty. I'd seen enough of main campus to get most of them with reasonable amounts of accuracy. The ones I didn't... well...
 
-![Visible confusion](/assets/mh2025/geoguessr.png ([2025-01-18 1255] The duality of Geoguessr: sometimes you know it's this part of the country based on the color of the sky and what car Google used but sometimes you can't get it any narrower than "rural US road".))
+![Visible confusion](/assets/mh2025/geoguessr.png "[2025-01-18 1255] The duality of Geoguessr: sometimes you know it's this part of the country based on the color of the sky and what car Google used but sometimes you can't get it any narrower than \"rural US road\".")
 
 Eventually I'd piece together that some of them were in approximately the same location—the three at the Chord in Building 2 did enough to confirm that.
 
@@ -308,7 +308,7 @@ Of course, I had to take this one as the MITGuessr person. (This makes three puz
 
 The last image piqued my interest, though, because it was a picture of the radio face. Immediately I asked around for the radio... which was noticeably absent from the room.
 
-Turns out we had unlocked a different radio puzzle earlier—the one asking for a performance of the Star-Spangled Banner—and the resident radiohead had seemingly disappeared to some other room to practice.
+Turns out we had unlocked a different radio puzzle earlier—the one asking for a performance of the Star-Spangled Banner—and the resident radiohead (Grackle) had seemingly disappeared to some other room to practice.
 
 Welp, leave a ping and put a pin in it for now; Chinatown had made some progress in the meantime (due to incidental airwave interception, no less), and we'd sent some people on campus to investigate. Apparently the relevant information was stashed under the benches? Who'd've guessed[^benches].
 
@@ -332,7 +332,7 @@ All told, I spent 2 hours on campus[^oncampus], met with the Chinatown contingen
 
 Even then, I still didn't have a sort order. I knew the text was important somehow, but I had already spent 2 hours with the radio.
 
-In all, it felt like a puzzle that didn't respect solvers' time. And I already have very strong feelings about puzzles that intentionally waste solvers' time. Hell, even HQ seemed to encourage it, given their hint on the puzzle was an uncharacteristically unhelpful "try looking at the puzzle". Twice.
+In all, it felt like a puzzle that didn't respect solvers' time. And I already have very strong feelings about puzzles that intentionally waste solvers' time. Hell, even HQ seemed to encourage it, given their hint they gave on the puzzle was an uncharacteristically unhelpful "try looking at the puzzle". Twice.
 
 I got back to HQ at around 7:00, very annoyed. Sniper commented that it was a "Never Gonna Give You Up Run Around", emphasizing the last two words (which happened to be a lyric in that song). 
 
@@ -344,7 +344,7 @@ When I got back, I noticed that our team name was suddenly *not* Literally Anima
 
 I passed the radio back to Grackle for their performance. In the meantime I figured out the last location I needed for Given Up (after unintentionally barging into an HQ-only room—whoops!) and grabbed the radio immediately after the performance to take notes on the two I was missing.
 
-I still couldn't solve the puzzle by randomgramming though—both because I recorded a bad letter somewhere along the way and because I didn't account for duplicates.
+I still couldn't solve the puzzle by randomgramming, though—both because I recorded a bad letter somewhere along the way and because I didn't account for duplicates.
 
 I swapped back into Chinatown—by now all the things had been found, and it was just parsing a large mess of Chinese radicals and messages headed by bird names. (Three bird puzzles? In *my* Mystery Hunt?)
 
@@ -399,15 +399,15 @@ It made sense. Not enough sense, though, given we couldn't find matches for a fe
 
 It was getting late, so we packed things up again. This time, when I got back, I chose to focus down the extraction on Chinatown. There's a lot of unused information—one answer in each set of three is just the radical, for instance, while the other two have other things attached. There's also the message text we haven't used. Surely those things are important!
 
-![Bad language usage](/assets/mh2025/eigenletter.png "[2025-01-19 0324] 苍天呀啊啊啊啊啊啊啊")
+![Bad language usage](/assets/mh2025/eigenletter.png "[2025-01-19 0324] SUN / CLOTH COVER / CART")
 
 aaaaaaaaaAAAAAAAAAAAAAAA*AAAAAAAAAAAAAAAAA*——
 
 # Romance
 
-One ordering later, we had our second round done. I promptly went to sleep, because 4 AM, but also because I got annoyed at the Chinese puzzle being assembling Chinese characters entirely in service of an English translation.
+One ordering later, we had our second round done. I promptly went to sleep, because 4 AM, but also because I got annoyed at the Chinese puzzle being assembling Chinese characters entirely in service of an English translation. That's an entirely separate essay, though, that I have not put to paper.
 
-I got back to campus at 9:30, just in time to see a [physical puzzle](https://www.two-pi-noir.agency/puzzles/celestial_rope) I had been waiting for. I had seen other teams playing with their copies outside their rooms, just enough to have an idea of what the puzzle was about.
+I got back to campus at 9:30, investigating on-site things for [Sounds Like a Dodo to Me](https://www.two-pi-noir.agency/puzzles/sounds_like_a_dodo_to_me) on the way to the team's HQ (we never ended up actually solving it), and arriving just in time to see a [physical puzzle](https://www.two-pi-noir.agency/puzzles/celestial_rope) I had been waiting for. I had seen other teams playing with their copies outside their rooms, just enough to have an idea of what the puzzle was about.
 
 Good news: my instinct was right, and I even guessed the right idea for identifying the other locations. Some time afterwards I also recognized the PLANET B poster and went down there to check my idea (and was mildly amused by a different team using the third floor of the Infinite Corridor to lay out their copy of the same puzzle).
 
@@ -429,9 +429,9 @@ Then Grackle asks me to help with [Cacciando Trio](https://www.two-pi-noir.agenc
 
 While working on this, though, I get pulled aside by Juro—he wanted me to go print the 48 pages we currently had on [the meta for Murder in MITropolis](https://www.two-pi-noir.agency/puzzles/the_killer), which we now knew was structured vaguely like Cain's Jawbone[^cain].
 
-See, I'm also the token MIT student on the team, which means I'm one of like two people able to use the printers in the area. Off to Stata I went, then—my original plan was the nearby EECS lounge, which I misremembered as having printers. 
+See, I'm also the token MIT student on the team, which means I'm one of like two people able to use the printers in the area[^printer]. Off to Stata I went, then—my original plan was the nearby EECS lounge, which I misremembered as having printers. 
 
-I had just gotten settled when the group finishes Cacciando Trio, and Juro then bugs me for the next three pages. Fine, another five minutes.
+I had just gotten settled when the rest of the group finished Cacciando Trio, and Juro then bugs me for the next three pages. Fine, another five minutes.
 
 20 minutes later, the same story (with a different puzzle, of course). Fortunately it's the last set of pages, which meant I could start focusing down the tail end of Paper Trail.
 
@@ -520,7 +520,7 @@ I've lived alone in my dorm room for about as long as I've been on campus, so po
 
 While this would have been a good way to wind down, I could never truly get the overtime mentality out of my head. We were pretty close to closing out the hunt, after all—just two rounds and four metas. How hard could it be?
 
-So while the rest of the group was listening to... something I can't even begin to describe, I pulled out a computer and started hacking away at them, focusing on Papa's Bookcase for now. Since HQ was closed, I had to make do with asking the nearest possible source of hints, which in this case meant Taph (a friend on ✈️✈️✈️GT✈️✈️✈️ who we had invited over).
+So while the rest of the group was listening to... something I can't even begin to describe, I pulled out a computer and started hacking away at them, focusing on [Papa's Bookcase](https://www.two-pi-noir.agency/puzzles/papas_bookcase_blacklight) for now. Since HQ was closed, I had to make do with asking the nearest possible source of hints, which in this case meant Taph (a friend on ✈️✈️✈️GT✈️✈️✈️ who we had invited over).
 
 Well, the linchpin in the solution was load-bearing flavortext—we somehow never read too deeply into the word "audible" (which did double-duty this time). OK, so how are we going to identify the audiobooks? 
 
@@ -535,7 +535,7 @@ Taph had left by this point, so I asked some hunters who were online at the time
 
 A different person then showed up to ask me about things I knew in the world that sounded like "check". 
 
-I definitely needed that clue. It then took a bit more back-and-forth to confirm that, yes, I needed to overlay it on a map of Czechia—I tried this already, and could see the coordinates of the star lined up with the decimals in the coordinates of Prague, but that left most of the cities outside Czech borders. Including one far off in what I guessed to be Ukraine...
+I definitely needed that clue. It then took a bit more back-and-forth to confirm that, yes, I needed to overlay it on a map of Czechia—I tried this already, and could see the coordinates of the star relative to the gridlines lined up with the decimals in the coordinates of Prague, but that left most of the cities outside Czech borders. Including one far off in what I guessed to be Ukraine...
 
 I didn't actually overlay the map—I was calculating the coordinates by hand instead[^svg]. So I guessed the Ukrainian one to be the formerly Czechoslovakian city of Užhorod, which prompted me to realize the extraction mechanic. (I then double-checked the coordinates to realize the city was actually Lviv.)
 
@@ -547,17 +547,19 @@ It was now 6-something AM. We were tired. I set an alarm for 10 and fell asleep 
 
 When I woke up, a third person was offering hints. Another back-and-forth, and I finally had a reason why we didn't have an answerlist that fit.
 
-Because it was the wrong answerlist. Most of the answers were AKAs.
+Because it was the wrong answerlist. Most of the answers were AKAs, and their *other* names fit the new shells.
 
-I had noticed the property for some of them (having looked at Samgaksan when Adam's message came blaring over the radio) but assumed the meta constructors needed the weird letters for extraction (reasoning that if they needed the semantics, they would just use the Wikipedia title). By the time the metas actually came around, I had forgotten it.
+I had noticed the property for some of them (having looked at Samgaksan when Adam's message came blaring over the radio) but assumed the meta constructors needed the weird letters for extraction (reasoning that if they needed the semantics, they would just use the Wikipedia title). By the time the metas actually came around, I had forgotten this, and I didn't really work on those metas enough at the time to devote headspace to the idea.
 
 I took the opportunity to confirm that, yes, there were 9 letter-slots in both Oversight and Grand Illusion, and found a bunch of the alternate names.
+
+It's crazy (positive) that they made this work. But it's also crazy (negative) that they didn't really leave breadcrumbs on that particular trail.
 
 </details>
 
 By now, though, it was 10:30, which meant A. wrap-up was imminent and B. the group had to check out of the AirBnB. This would have to wait for afterwards. Meant no finishing, but I wasn't expecting that at this point.
 
-I sent a message to the chat for what was almost certainly the last major idea needed to solve the puzzle and headed off—first to Flour, then to the wrap-up room[^wrapup], then just outside the wrap-up room to hang out with people, then showing some people on my team to the rhythm game room in the basement of Walker Memorial. After saying my goodbyes, a stopover at the wrap-up room again to grab my umbrella, then a 20-minute long trek back to the dorm.
+I sent a message to the chat for what was almost certainly the last major idea needed to solve the puzzle and headed off—first to Flour (where at least one person congratulated me for supposedly winning the hunt), then to the wrap-up room[^wrapup], then just outside the wrap-up room to hang out with people, then showing some people on my team to the rhythm game room in the basement of Walker Memorial. After saying my goodbyes, a stopover at the wrap-up room again to grab my umbrella (and having to decline another congratudolences from D&M), then a 20-minute long trek back to the dorm.
 
 When I got back, the group had gotten some much clearer images, re-solved the Mark, and was now working on the Oversight. I jumped in to close it out with Grand Illusion, and the final answer.
 
@@ -575,7 +577,7 @@ It speaks to the effort, though: high-effort things tend to be more polarizing. 
 
 (For the last time, Adal, you should probably type "Discourse about Discourse", because Discourse is bullshit. You've been over this before.)
 
-It's hard trying to reconcile a dissonance in my head. Even ignoring the hunt I wrote for, the fun I have with hunt seems to be (mostly) positively correlated with the supposed length of the hunt[^length]. Then again, "length of hunt" is a crazy variable on its own, defined entirely by the first team to finish. People will call it a Sunday noon hunt despite most finishing teams wrapping up closer to 10 PM, as if Cardinality didn't just blow everyone else out of the water this time. And I know people who will specifically cite that timestamp as a reason for their positive hunt experience, as if the 100 other enjoyable things D&M *actually* put into the hunt experience have about the same worth as a single fucking number.
+It's hard trying to reconcile a dissonance in my head. Even ignoring the hunt I wrote for, the fun I have with hunt seems to be (mostly) positively correlated with the supposed length of the hunt[^length]—except really the fun I have with the hunt seems to be unrelated to length and more related to how much I liked the puzzle content (or, y'know, the limited slice of puzzle content a given person interacts with). Then again, "length of hunt" is a crazy variable on its own, defined entirely by the first team to finish. People will call it a Sunday noon hunt despite most finishing teams wrapping up closer to 10 PM, as if Cardinality didn't just blow everyone else out of the water this time. And I know people who will specifically cite that timestamp as a reason for their positive hunt experience, as if the 100 other enjoyable things D&M *actually* put into the hunt experience have about the same worth as a single fucking number.
 
 Again, one number is horridly reductive, especially such a random variable that is, ultimately, semantically vacuous. The emphasis on this number devalues the effort put into the hunt by all involved. 
 
@@ -594,7 +596,7 @@ The first lesson is I need to get better at reading flavortext.
 
 Death & Mayhem went all-in on aesthetics this year, especially the in-person aspects. This manifested in a few ways: most of my experience with this in-person was from my two visits to the Gala and the radio playing music and the occasional weather report[^weatherreport] in the background, but they also spruced up the website with environmental storytelling and stuff. Things like the puzzle icons in the hidden room in Papa's Study tying Baby to the prologue or photos of Katrina showing her police badge, well before the respective meta answer spells it out. All in all, it seemed like they really wanted you to be invested in the plot (a reasonable reaction to the fact that the plot was a lot less present for 2024).
 
-I did like what I saw—perhaps if I had chosen to spend more time at the Gala[^gala] I'd have more to say on the positive impact. Unfortunately, and more saliently to my personal experience, added aesthetics also has the significantly more visible downside of introducing red herrings. Our experience on the metas, and particularly Chinatown and Paper Trail, were quite marred by this, especially given potentially-meaningful text that turned out to be nothing but set dressing. (A lot of our hints were just "this thing is not relevant to the puzzle".)
+I did like what I saw; perhaps if I had chosen to spend more time at the Gala[^gala] I'd have more to say on the positive impact. Unfortunately, and more saliently to my personal experience, added aesthetics also has the significantly more visible downside of introducing red herrings. Our experience on the metas, and particularly Chinatown and Paper Trail, were quite marred by this, especially given potentially-meaningful text that turned out to be nothing but set dressing. (A lot of our hints were just "this thing is not relevant to the puzzle".)
 
 Personally, I love when aesthetics plays into the puzzle in a pleasing way. But it's an incredibly delicate balance to strike. I know firsthand from 2024: I tried to evoke a particular aesthetic in the design for Asphodel, but the aesthetic part caused an entirely-wrong initial assumption on the first testsolve. The puzzle that got left on the cutting-room floor had a similar issue, even when I made specific efforts to differentiate signal from noise—and it's left a (figurative) scar on my right hemisphere that I've been struggling to bridge over. (There were other factors to these, too, and they certainly didn't help—but I attribute these primarily to prioritizing aesthetics.)
 
@@ -602,9 +604,9 @@ If you can make it work, go for it! Just, uh. Be careful with what you leave str
 
 </details>
 
-The third lesson is that red + bird = cardinal in basically everyone's mind. 
+The third lesson is that red + bird = cardinal in basically everyone's mind. At least four times I can recall from that weekend. 
 
-Which means it's time to confuse literally everyone by suiting at hunt next year. :>
+And since ANE scheduled on top of Mystery Hunt again, it's time to confuse literally everyone by suiting at hunt next year. :>
 
 ---
 
@@ -629,6 +631,7 @@ Which means it's time to confuse literally everyone by suiting at hunt next year
 [^incidental]: We didn't reveal it for quite a while, despite having the answer for the switchbox, because we were expecting a musical instrument to play it on.
 [^hexagon]: The character is divided into the "hexagon" (vowel) and the "spokes" (consonant) for translational purposes, which definitely didn't help the association.
 [^cain]: A puzzle requiring ordering 100 pages into a cohesive narrative. Still need to solve this sometime.
+[^printer]: A privilege I will lose next year, given I will be out of my MEng by then.
 [^catch22]: A [round from Microsoft Puzzle Hunt 2016](https://drive.google.com/file/d/1KZuc6St75Xr_AT_AjStKL5gBM-nYLX3O/view?usp=sharing) with a similar mechanic, where every puzzle depends on other puzzles' answers in a potentially cyclic manner.
 [^leetspeak]: This despite the fact that L is the first letter in leet.
 [^hail]: The absurdity is that I remember seeing *hail* before ever seeing snow.
@@ -636,7 +639,7 @@ Which means it's time to confuse literally everyone by suiting at hunt next year
 [^svg]: At some point I should just learn how to deal with svgs so I *don't* have to use an image editor for measurement tasks.
 [^wrapup]: Not much to write about here, though you might see an occasional spot of red near the front of the crowd (I had taken off most of the fursuit to avoid blocking the person behind me.)
 [^distribution]: I don't know why I'm attempting to plot the distribution of a continuous function. I guess I'm sampling from this function?
-[^uniform]: Not to be confused with a uniform distribution.
+[^uniform]: Not to be confused with a uniform distribution. Though, mind that this was also a Big C year.
 [^length]: The exception, of course, is also colored by primacy bias. 
 [^weatherreport]: [Also a puzzle](https://www.two-pi-noir.agency/puzzles/a_weathered_note), of course.
 [^gala]: Hell, I even dressed the part for all three days just in case.
