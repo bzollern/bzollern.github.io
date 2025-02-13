@@ -90,11 +90,11 @@ The problem? We were apparently the first ones on that puzzle. Every team he tri
 
 Well, TTBNL is actually two teams now, but I know more people on the casual team, so... oh look new puzzles.
 
-Conveniently, a second puzzle had just been solved, and it revealed an Einstein that I immediately slam a key into (because I have basically become the designated Einstein solver when the team did P&As). I do some small amount of initial investigation—transcribing the names and numbers and whatnot—before I get distracted by something else.
+Conveniently, a second puzzle had just been solved, and it revealed [an Einstein](https://www.two-pi-noir.agency/puzzles/drunkens_and_flagons) that I immediately slam a key into (because I have basically become the designated Einstein solver when the team did P&As). I do some small amount of initial investigation—transcribing the names and numbers and whatnot—before I get distracted by something else.
 
 Someone asked an on-site person to knock three times on the radio.
 
-Oh, right, I mentioned a radio in passing earlier. It was given during kick-off, supposedly as a party favor. Turns out it's a puzzle right from the get-go, and the back of it was secretly [a criss-cross grid](https://www.two-pi-noir.agency/puzzles/songs_on_the_radio/solution), which was what prompted that request. But that wasn't all.
+Oh, right, I mentioned a radio in passing earlier. It was given during kick-off, supposedly as a party favor. Turns out it's a puzzle right from the get-go, and the back of it was secretly [a criss-cross grid](https://www.two-pi-noir.agency/puzzles/songs_on_the_radio), which was what prompted that request. But that wasn't all.
 
 <!--![Knock Three Times]( "[2025-01-17 1343] Is there a pipe on this thing?")-->
 
@@ -123,6 +123,8 @@ Now, I was going to start with small talk and ramp up to the actual apologizing.
 
 Well, now we have a receipt. We guessed the drink names on the receipt had to be wordplayed somehow, based on the comment on the bottom. It took twenty minutes of staring at the names to reason any amount of wordplay out of it, and then another two to realize the wordplay method was in the puzzle the whole time.
 
+---
+
 </details>
 
 I soon hear that our team sent *That* Copypasta to D&M. Hm.
@@ -142,11 +144,13 @@ I soon worked out an answer of FACE CARD SHARES.
 
 Now, I didn't know what a card share was (if anything), but seeing FACE CARD made it convincing enough a pun. Upon it coming back incorrect I decided my entire theory on extraction might have been a little shaky—after all, it relied on a mostly-inconsistent ordering of the letters in each pair. If only...[^casino]
 
-I still thought the answer seemed legitimate, though, so I chose to listen in on the puzzle I thought it was the best fit for, just to check. As it happened, the answer was slated to have thirteen letters, and the solvers there had just figured out extraction.
+I still thought the answer seemed legitimate, though, so I chose to listen in on [the puzzle I thought it was the best fit for](https://www.two-pi-noir.agency/puzzles/synthetic_tagsonomy), just to check. As it happened, the answer was slated to have thirteen letters, and the solvers there had just figured out extraction.
 
-It was for the other card... which really just seemed to confirm the initial theory. Juro then filled in the rest of the pun for me (and found the right backsolve answer for good measure).
+It was for the other card... which really just seemed to confirm the initial theory. Juro then filled in the rest of the pun for me.
 
 I'm bad at words, what can I say. CARDSHARK hardly came to mind (though in my defense I'm more familiar with the non-eggcorned version, CARD SHARP).
+
+---
 
 </details>
 
@@ -160,13 +164,13 @@ One place I could handle—they gave potential replacements below the lines, I c
 
 Too hard for one brain. I left it be.
 
-We're soon done with another meta, The Boardwalk. After being somewhat sad at the slight lack of keys for what we have now learned is a fish round 42 puzzles long, we unlock two of them. One of them is a physical puzzle. I gravitate towards it.
+We're soon done with another meta, [The Boardwalk](https://www.two-pi-noir.agency/puzzles/the_boardwalk). After being somewhat sad at the slight lack of keys for what we have now learned is a fish round 42 puzzles long, we unlock two of them. One of them is a physical puzzle. I gravitate towards it.
 
 It's a bag of [popsicle sticks](https://www.two-pi-noir.agency/puzzles/anything_is_popsicle), complete with 40-something dad jokes. Cue groaning.
 
 Not much to comment on besides—well, save for the fact that I wound up doing a dropquote on the sticks. I'd take one minute of asking someone for a sharpie over four minutes of transcription any day.
 
-Well, that's done. Back to staring at metas. Art Gallery had made some progress (mostly noting the colors) but was now stuck on extraction. So I looked at the other unsolved one (Jewelry Store), which had made no progress at all.
+Well, that's done. Back to staring at metas. [Art Gallery](https://www.two-pi-noir.agency/puzzles/the_art_gallery) had made some progress (mostly noting the colors) but was now stuck on extraction. So I looked at the other unsolved one ([Jewelry Store](https://www.two-pi-noir.agency/puzzles/the_jewelry_store)), which had made no progress at all.
 
 A lot of ideas were thrown around. A lot of the answers seemed to be incredibly specific things, like two answers related to bulls---maybe semantic chaining was on the table?
 
@@ -205,6 +209,8 @@ Another half-hour of twiddling and we figured out what each of the major compone
 
 I honestly feel like this puzzle could have done without the long and clunky flavortext. It works well enough without it (in fact I mostly disregarded it while solving), and not having it would serve to emphasize the grid (and whatever feelings it evokes) more.
 
+---
+
 </details>
 
 While doing that though, another group pulled me aside to stare at [more birds](https://www.two-pi-noir.agency/puzzles/sing_like_a_canary). (Another bird puzzle? In _my_ Mystery Hunt?)
@@ -221,7 +227,7 @@ Fresh eyes save lives. Unfortunately we also timed ourselves out with our three 
 
 More on the fourth round later; we realized that we needed to start on the [mid-hunt runaround](https://www.two-pi-noir.agency/puzzles/the_thief) basically immediately to finish it before the end-of-day period kicked in. So a large group of us went up to the Gala, had the radio tuned to the right station, and proceeded to get absolutely lost around the Building 13 segment of the chase.
 
-Just for fun, I did this part in suit. I tripped over my own feet a few times. Worth.
+Just for fun, I did this part in suit. I tripped over my own feet a few times. Worth it.
 
 <!--![Clumsy bird]( "[2025-01-18 0006] This is why I don't take stairs.")-->
 
@@ -256,6 +262,8 @@ The hint proved unhelpful in actually directing, choosing to focus us on that fi
 
 Interestingly, we were also very close to backsolving it, having reduced the options to B\_{6} FOREST. We distrusted the first sensible Nutrimatic option for being extremely out of left field for a puzzle about MIT when other options seemed like better fits for the meta, and tried every other sensible option instead. It was the first sensible Nutrimatic option.
 
+---
+
 </details>
 
 While that was going on, though, I plugged a key into a puzzle whose title was in a Brahmic script. I'm a simple bird. I see title in interesting foreign script, I click.
@@ -277,11 +285,13 @@ I go back to the puzzle to submit it. Someone had submitted nonsense in the mean
 
 Needless to say, I lost my shit. Enough to uncensor a swear word or two in Discord chat, and almost throw the bell we were using to celebrate solves against the floor (after submitting the Actually Correct answer).
 
+---
+
 </details>
 
 I bounced around the puzzles again. I don't really remember what I worked on during this time; I know at some point I led Juro over to the Borderline murals beyond 66 for the puzzle that wanted them.
 
-When I got back, I was cued into [a puzzle with one long poem](https://www.two-pi-noir.agency/puzzles/a_puzzle_of_the_dead) with some other encodings that had already been cracked. I noticed that the big poem was actually a bunch of interleaved smaller poems, only to find that it clued a step that had already been done. Welp.
+When I got back, I was cued into [a puzzle with one long poem](https://www.two-pi-noir.agency/puzzles/a_puzzle_of_the_dead) and some other encodings that had already been cracked. I noticed that the big poem was actually a bunch of interleaved smaller poems, only to find that it clued a step that had already been done. Welp.
 
 By the time that was done, we had unlocked the Chinatown meta. And for... obvious reasons... I got stuck on Geoguessr duty. I'd seen enough of main campus to get most of them with reasonable amounts of accuracy. The ones I didn't... well...
 
@@ -338,6 +348,8 @@ I got back to HQ at around 7:00, very annoyed. Sniper commented that it was a "N
 
 I could only respond to that sting with "This puzzle let me down. Hard." Which was essentially an invitation to get barraged with every other lyric in the chorus.
 
+---
+
 </details>
 
 When I got back, I noticed that our team name was suddenly *not* Literally Animal Farm. Sniper told me not to worry about it (it was [a puzzle](https://www.two-pi-noir.agency/puzzles/what_do_they_call_you)). Moving right along, then!
@@ -365,6 +377,8 @@ We eventually got 7 out of 8 characters (only failing to identify a good word fo
 
 We tried a few sensible things (2019 for the ending year, REIWA for the era that came after), neither of which worked. And we soon had to put this on hold, because...
 
+---
+
 </details>
 
 In the meantime, we also unlocked a [scavenger-hunt-like thing](https://www.two-pi-noir.agency/puzzles/we_can_do_this_all_day). We soon scheduled an interaction for ~9 PM, and met with the judges at the east end of the Infinite Corridor. We were told we had an infinite amount of time to do 14 tasks. Easy!
@@ -391,7 +405,7 @@ This time we had plenty of time to spare, and got a certificate. Which I then so
 
 The key went to a new puzzle, and the moment someone said the word "Lingo" the entire furry cluster on LAF had jumped on [the puzzle](https://www.two-pi-noir.agency/puzzles/jargon).
 
-...OK, we kind of knew a Lingo puzzle was coming just from incidental commentary[^incidental]. Between collective word knowledge, personal knowledge, and just cheesing the resistor-reading step (once I knew how it would work) by measuring ratios, it got torn apart in 40 minutes. In the meantime, the others had finished off He Shouldn't Have Eaten the Apple, which resulted in a message being blared over the radio. Hearing an interesting historical tidbit, I looked into the answer, to realize it was the same as Bukhansan—a name I recognized from *somewhere*, but wasn't sure where.
+...OK, we kind of knew a Lingo puzzle was coming just from incidental commentary. Between collective word knowledge, personal knowledge, and just cheesing the resistor-reading step (once I knew how it would work) by measuring ratios, it got torn apart in 40 minutes. In the meantime, the others had finished off He Shouldn't Have Eaten the Apple, which resulted in a message being blared over the radio. Hearing an interesting historical tidbit, I looked into the answer, to realize it was the same as Bukhansan—a name I recognized from *somewhere*, but wasn't sure where.
 
 Back to Tunic—Ryker (aforementioned fox) had finished the manual step at this point. I started writing the answers out in the hexagon script. Some looked like they were a transformation of the other... or at least suspiciously similar to such.
 
@@ -448,6 +462,8 @@ I swapped to [Shell 4](https://www.two-pi-noir.agency/puzzles/shell_corporation_
 
 Eventually we worked out the answer for Shell 5, which I promptly used to finish off Shell 4, which was then promptly used to backsolve Shell 6. 
 
+---
+
 </details>
 
 In the meantime, we had finally cracked Papa's Bookcase, the meta for Illegal Search. Illegal Search itself was a creative concept—the round was structured like an escape room, complete with *all* the locks (and puzzles that needed to be solved for the answer to those locks). I didn't manage to interact with the mechanic that much.
@@ -493,6 +509,10 @@ As I was about to wipe the board and try *again* again, an emergency communiqué
 Against all odds, it was the double-up.
 
 Completing the graph, and defining the trails to the hidden company (which I called "bailouts" for... no particular reason), was easier. 
+
+![Paper Trail](/assets/mh2025/papertrail.png "[2025-01-19 2116] Calling in WEB OF LIES.")
+
+---
 
 </details>
 
@@ -553,7 +573,9 @@ I had noticed the property for some of them (having looked at Samgaksan when Ada
 
 I took the opportunity to confirm that, yes, there were 9 letter-slots in both Oversight and Grand Illusion, and found a bunch of the alternate names.
 
-It's crazy (positive) that they made this work. But it's also crazy (negative) that they didn't really leave breadcrumbs on that particular trail.
+It's crazy (positive) that they made this work. But it's also crazy (negative) that they didn't really leave breadcrumbs on that particular trail—the largest is the already-overloaded title and flavortext, and there's a lot of words that do double-duty there.
+
+---
 
 </details>
 
@@ -577,15 +599,17 @@ It speaks to the effort, though: high-effort things tend to be more polarizing. 
 
 (For the last time, Adal, you should probably type "Discourse about Discourse", because Discourse is bullshit. You've been over this before.)
 
-It's hard trying to reconcile a dissonance in my head. Even ignoring the hunt I wrote for, the fun I have with hunt seems to be (mostly) positively correlated with the supposed length of the hunt[^length]—except really the fun I have with the hunt seems to be unrelated to length and more related to how much I liked the puzzle content (or, y'know, the limited slice of puzzle content a given person interacts with). Then again, "length of hunt" is a crazy variable on its own, defined entirely by the first team to finish. People will call it a Sunday noon hunt despite most finishing teams wrapping up closer to 10 PM, as if Cardinality didn't just blow everyone else out of the water this time. And I know people who will specifically cite that timestamp as a reason for their positive hunt experience, as if the 100 other enjoyable things D&M *actually* put into the hunt experience have about the same worth as a single fucking number.
+It's hard trying to think about this. Even ignoring the hunt I wrote for, the fun I have with hunt seems to be (mostly) positively correlated with the supposed length of the hunt[^length]—except really the fun I have with the hunt seems to be unrelated to length and more related to how much I liked the puzzle content (or, y'know, the limited slice of puzzle content a given person interacts with). Then again, "length of hunt" is a crazy variable on its own, defined entirely by the first team to finish. People will call it a Sunday noon hunt despite most finishing teams wrapping up closer to 10 PM, as if Cardinality didn't just blow everyone else out of the water this time. And I know people who will specifically cite that timestamp as a reason for their positive hunt experience, as if the 100 other enjoyable things D&M *actually* put into the hunt experience have about the same worth as a single fucking number.
 
-Again, one number is horridly reductive, especially such a random variable that is, ultimately, semantically vacuous. The emphasis on this number devalues the effort put into the hunt by all involved. 
+Again, one number is horridly reductive, especially such a random variable that is, ultimately, semantically vacuous. The emphasis on this number devalues the effort put into the hunt.
 
-Like, obviously the writing team cares about The Number—they're the ones interfacing with MIT for the most part, and the ones who have to deal with reserving space on campus. But we shouldn't. What the writing team wants to do is their business and theirs alone. In general, I trust that they have the best of intentions for the future of hunt, and have designed accordingly. I can tell that D&M wanted a better in-person experience and a better MIT student experience, and I'm glad that that they could deliver where we (and our size-1 MIT student contingent) couldn't. 
+Like, obviously the writing team cares about The Number—they're the ones interfacing with MIT for the most part, and the ones who have to deal with reserving space on campus. But we shouldn't. What the writing team wants to do is their business and theirs alone. In general, I trust that they have the best of intentions for the future of hunt, and have designed accordingly. I can tell that D&M wanted a better in-person experience and a better MIT student experience, and I'm glad they could deliver that where we (and our size-1 MIT student contingent) couldn't. 
 
 If you want to stump about it, go win the fucking hunt first, and express your opinions with the hunt you write. 
 
 </details>
+
+---
 
 The first lesson is I need to get better at reading flavortext.
 
@@ -628,7 +652,6 @@ And since ANE scheduled on top of Mystery Hunt again, it's time to confuse liter
 [^oncampus]: About .5 of which was just spent in the Eastman Lobby looking at progress on Chinatown, but I digress. 
 [^behind]: Though who knows? Unlock order was extremely non-linear in this hunt. On my walks around campus I saw other teams with a certain physical puzzle ages before we got the same puzzle. 
 [^infinite]: Infinite, _n._ The length of time it takes to traverse the length of MIT's Infinite Corridor. Not to be confused with ⊥IW's Infinite Corridor, which is Actually (countably) Infinite.
-[^incidental]: We didn't reveal it for quite a while, despite having the answer for the switchbox, because we were expecting a musical instrument to play it on.
 [^hexagon]: The character is divided into the "hexagon" (vowel) and the "spokes" (consonant) for translational purposes, which definitely didn't help the association.
 [^cain]: A puzzle requiring ordering 100 pages into a cohesive narrative. Still need to solve this sometime.
 [^printer]: A privilege I will lose next year, given I will be out of my MEng by then.
