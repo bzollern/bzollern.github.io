@@ -7,7 +7,7 @@ tags:
     - music
 ---
 
-If you've read [my post about writing the 2024 MIT Mystery Hunt](/2024/06/11/2024-Mystery-Hunt.html), you might already know that I had a puzzle left on the cutting room floor (and also last-minute-plugged a puzzle for another one that landed on the floor).
+If you've read [my post about writing the 2024 MIT Mystery Hunt](/2024/06/11/2024-Mystery-Hunt.html), you might already know that I had a puzzle left on the cutting room floor.
 
 Well, [here it is](https://epilogue.mitmh2024.com/puzzle/melody-medley): a composition for piano six hands[^sixhands] that also functions as a five-part minimeta.
 
