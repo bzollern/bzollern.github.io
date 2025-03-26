@@ -4,6 +4,7 @@ layout: post
 author: Adalbert
 tags:
     - puzzlehunts
+    - mit
 ---
 
 Damn, [_another_ detective mystery](https://www.two-pi-noir.agency/), so soon after last year—and quite the whirlwind, too.
