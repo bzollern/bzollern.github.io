@@ -107,7 +107,7 @@ I was never happy with the fix. It did, however, prove helpful for the testsolve
 
 A few more tweaks and it was ready for a second testsolve, which then... proceeded to drag for another fortnight. 
 
-You know the rest of the story—it gets axed near the start of winter break, [an emergency puzzle](https://puzzles.mit.edu/2024/mythstoryhunt.world/puzzles/15-questions) is pasted in its place, I slip mentally for a few days and then bang out [Transcendental Algebra](https://puzzles.mit.edu/2024/mythstoryhunt.world/puzzles/transcendental-algebra) in a significantly shorter timeframe, all of hunt happens.
+You know the rest of the story—it gets axed near the start of winter break, an emergency puzzle is pasted in its place, I slip mentally for a few days and then bang out [Transcendental Algebra](https://puzzles.mit.edu/2024/mythstoryhunt.world/puzzles/transcendental-algebra) in a significantly shorter timeframe, all of hunt happens.
 
 Melody Medley was basically the embodiment of risk factors for puzzle death. 
 
@@ -127,7 +127,7 @@ I always planned to rework the puzzle for the epilogue. The reality, though, is 
 
 I did get some basic ideas down—the plan was to rework the puzzle into a full round (since this was essentially a round-length puzzle, just like Ripple Effect). I even came up with a meta answer, though using it for this hunt would likely have run into some problems (exercise left to the reader), and answers to go with it (which unfortunately were even more constrained and also didn't exactly mesh well with my extraction methods).
 
-Eventually, as 2024 bled into 2025, and the rest of the Epilogue was being hammered out[^pun], we settled on releasing it as is. However, over time I had become somewhat unhappy with the puzzle's current state. The coda really was just tacked on at the time; I rewrote it to call back to Medley IV, where it leads directly off the Pathetique at the end (and even added the other pieces in its section to strengthen the connection). I also rewrote a few of the melodies for easier identification. 
+Eventually, as 2024 bled into 2025, and the rest of the Epilogue was being hammered out[^pun], we settled on releasing it as is. However, over time I had become somewhat unhappy with the puzzle's then-current state. The coda really was just tacked on at the time; I rewrote it to call back to Medley IV, where it leads directly off the Pathetique at the end (and even added the other pieces in its section to strengthen the connection). I also rewrote a few of the melodies for easier identification. 
 
 Slightly more controversially, I also took the opportunity to write the crutches out of the puzzle. So the endcard was replaced with a simpler one (just two credits lines on a white background) and its clues scattered across the sheet music. The flavortext, formerly needing the length of a paragraph to justify the existence of a melody checker, was now just one line of description and one line of clarification taken from the endcard. The major crutches needed to justify using the Solresol symbols were now three articulation markers on the extant G-D-G, Sudre's "initials"[^sudre] as an annotation, and CPE Bach's Solfeggietto to encourage reading the spare notes as solfège. Section E's chords now had to be a shorter message, so I used Grade 2 Braille, just to push future Braille usage in puzzles in that direction (it's not actually commonly used, per Sara, and admittedly Grade 1's usage in puzzles has become a bit bland).
 
@@ -151,7 +151,7 @@ Which sort of ties back into why popular music gets all the billing for music ID
 
 It's a bit of a vicious cycle. Writers will use more obscure popular music because they *know* solvers will use an app for it. Eventually The App just becomes a must-have in the solver's toolkit. Other writers will know that solvers are going to use The App, and attempt to write puzzles that are completely opaque to it. The standard puzzlehunting arms race resulting from automation, and one that's prone to making some extremely divisive puzzles, since designing puzzles to beat the app also risks making them opaque to humans. Even humans that know your dataset well.
 
-In a way, I'm kind of glad that classical hasn't gotten this treatment. Sure, Musipedia exists, but using it is still sufficiently non-trivial and prone to inaccuracies that you're encouraged to make a manual first pass. The puzzles in Medley are all relatively simple mechanically (once you're past the initial hurdle of identification). You really just need someone who can identify[^identify]. Just like the old hunts. 
+In a way, I'm kind of glad that classical hasn't gotten this treatment. Sure, Musipedia exists, but using it is still sufficiently non-trivial and prone to inaccuracies that you're encouraged to make a manual first pass. The puzzles in Medley are all relatively simple mechanically (once you're past the initial hurdle of identification). You really just need someone who can identify[^identify]. Just like the old hunts, or at least how I'm told the old hunts went. 
 
 ---
 
