@@ -7,7 +7,7 @@ tags:
     - music
 ---
 
-If you've read [my post about writing the 2024 MIT Mystery Hunt](/2024-06-11-2024-Mystery-Hunt.md), you might already know that I had a puzzle left on the cutting room floor (and also last-minute-plugged a puzzle for another one that landed on the floor).
+If you've read [my post about writing the 2024 MIT Mystery Hunt](/2024/06/11/2024-Mystery-Hunt.html), you might already know that I had a puzzle left on the cutting room floor (and also last-minute-plugged a puzzle for another one that landed on the floor).
 
 Well, [here it is](https://epilogue.mitmh2024.com/puzzle/melody-medley): a composition for piano six hands[^sixhands] that also functions as a five-part minimeta.
 
@@ -21,7 +21,7 @@ If you've read any of my previous recaps, you may have noticed that every title 
 
 The fact that it was also the one I had the most exposure to (from quiz bowl) also helped, as did the typical experience of learning plural instruments in elementary. But those weren't really formative—at the time I typically left the music questions to the humanities mains on my team, and while I did the typical music theory nerd things of learning about intervals and figured bass and whatnot I mostly used the instruments to play things I liked, which back then was just [Paradox Interactive soundtracks](https://www.youtube.com/watch?v=XMtVu-ZtwEk&t=1483s) and national anthems.
 
-This changed some time around the transition to high school, when I found a [Classical Music Mashup](https://www.youtube.com/watch?v=7OYkWSW7u4k) on a cursory browse of YouTube during an otherwise quiet school day.[^computer]
+This changed some time around the transition to high school, when I found a [Classical Music Mashup](https://www.youtube.com/watch?v=7OYkWSW7u4k) on a cursory browse of YouTube during an otherwise quiet school day.
 
 I don't know what about it appealed to me. Maybe it was the knowledge gateway it represented. Maybe it was hearing the few that I recognized incorporated seamlessly into a larger piece. Maybe it was the humorous stylistic choice of using composer heads as the notes. Whatever the case, I loved the work.
 
@@ -37,7 +37,7 @@ So let's give it some.
 
 Point being, I've always wanted to get the classical canon into a puzzle... although my initial ideas on that front were pretty basic, and mostly of the "encode an English answer in X format in the baseline and clue it with Y piece of music" form.
 
-Yet the first time I thought to write the puzzle was in late July, having had the impulse to listen to the mashups again. Since this was capital-H Hunt, though, I aspired for something grander. Perhaps lightly inspired by the recently-late Jack Lance and his thoughts on what constituted a puzzle, I chose to make the answers to each a musical quotation, and indeed to conduct the entire solving process entirely within the musical domain. (Or as much as possible, anyway.) This would be my attempt at innovation.
+Yet the first time I thought to write the puzzle was in late July, having had the impulse to listen to the mashups again. Since this was capital-H Hunt, though, I aspired for something grander. Perhaps lightly inspired by the recently-late Jack Lance and [his thoughts on puzzle structure](https://jacoblance.wordpress.com/r-t-3-epilogue/), I chose to make the answers to each a musical quotation, and indeed to conduct the entire solving process entirely within the musical domain. (Or as much as possible, anyway.) This would be my attempt at innovation.
 
 I picked as thematic an answer as I could muster from the pool and essentially built the puzzle structure around it.[^clefs]
 
@@ -79,7 +79,7 @@ I couldn't find enough 3s that fit the tone, though, so I compromised slightly b
 
 But now I reached the real roadblock: I still hadn't found an idea I was satisfied with for Section D.
 
-I waffled on this for a bit; I was planning Modern Architecture around the same time, not to mention it was midterm season. But even after I completed the fourth Promenade section I still wasn't completely happy with it.
+I waffled on this for a bit; I was planning [Modern Architecture](https://puzzles.mit.edu/2024/mythstoryhunt.world/puzzles/modern-architecture) around the same time, not to mention it was midterm season. But even after I completed the fourth Promenade section I still wasn't completely happy with it.
 
 I knew I wanted Well-Tempered Clavier, and to have "well-tempered" hint at intervals and transposition. Eventually I chose to focus the other pieces on the "Clavier" part, rather than risk people attempting to identify pieces more obscure than the preludes I had chosen.
 
@@ -107,7 +107,7 @@ I was never happy with the fix. It did, however, prove helpful for the testsolve
 
 A few more tweaks and it was ready for a second testsolve, which then... proceeded to drag for another fortnight. 
 
-You know the rest of the story—it gets axed near the start of winter break, an emergency puzzle is pasted in its place, I slip mentally for a few days and then bang out Transcendental Algebra in a significantly shorter timeframe, all of hunt happens.
+You know the rest of the story—it gets axed near the start of winter break, [an emergency puzzle](https://puzzles.mit.edu/2024/mythstoryhunt.world/puzzles/15-questions) is pasted in its place, I slip mentally for a few days and then bang out [Transcendental Algebra](https://puzzles.mit.edu/2024/mythstoryhunt.world/puzzles/transcendental-algebra) in a significantly shorter timeframe, all of hunt happens.
 
 Melody Medley was basically the embodiment of risk factors for puzzle death. 
 
@@ -160,6 +160,6 @@ In a way, I'm kind of glad that classical hasn't gotten this treatment. Sure, Mu
 [^venus]: I think this was at a rerun of NASAT. More precisely, it was about Mars, the Bringer of War, but the clue was about the horn melody from the following Venus movement.
 [^clefs]: I realized several months too late that I could have done something funny with the answer extraction; if you've finished the puzzle you'd've seen me use the trick already. Exercise left to the reader.
 [^attacca]: Normally there's a pause between movements of a work. *Attacca* indicates to skip that pause.
-[^pun]: Pun intended. (The title is also a pun.)
+[^pun]: Pun intended.
 [^sudre]: Written FSud so as not to be confused with Franz Schubert. Except it's also apparently [readily decipherable with Nutrimatic](https://nutrimatic.org/2024/?q=%22f_*+sud_*%22&go=Go), not that I consider this a drawback.
 [^identify]: Doesn't even have to be someone who knows the canon. There's many ways to discover a piece: the top listing on the composer's Wikipedia page, Grant's mashups, or just the puzzle's own constraints (Section B comes to mind).
