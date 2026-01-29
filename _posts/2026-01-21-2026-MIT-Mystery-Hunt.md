@@ -143,8 +143,10 @@ F-ck.
 
 This confused me for a bit, since as far as I could tell there was no other work besides mine on the puzzle. Until people reported that there was backsolving going on in the round, and apparently the answers for this round had an extremely exploitable property that allowed it to be solved entirely with enumeration.
 
+One very terse crash-out later, I decided I needed a break from the spreadsheets. And conveniently a physical puzzle had arrived: [a box of all-black jigsaw pieces](https://puzzmon.world/puzzles/starry_night)...
+
 <details markdown="1">
-<summary markdown="1">One very terse crash-out later, I decided I needed a break from the spreadsheets. And conveniently a physical puzzle had arrived: [a box of all-black jigsaw pieces](https://puzzmon.world/puzzles/starry_night)...</summary>
+<summary>Spoilers for Starry Night</summary>
 
 ...that only revealed a hidden pattern if you used Chekhov's blacklight on them.
 
@@ -152,7 +154,7 @@ I spent the next hour assembling the jigsaw, wound up displacing two of the peop
 
 ![Black Square](/assets/mh2026/starry.jpg "[2026-01-16 2332] Malevich could never.")
 
-The symbols, of course, we understood the moment we laid eyes on them. It took me a while to discern Scorpius from Capricornus, but it sufficed to solve the puzzle in an image editor from there.[^virgo]
+The symbols, of course, we understood the moment we laid eyes on them. It took me a while to discern what was what, but it sufficed to solve the puzzle in an image editor from there.[^virgo]
 
 ---
 </details>
@@ -165,7 +167,7 @@ Either way, it was time to pack up. I spent the walk back in indignation about g
 
 Upon returning, I found Sniper and Juro still awake and hacking away at the recently-unlocked metas for the early rounds (two of which had been found while we were on the walk home). Obviously, we kind of knew something shaped like a meta-matching puzzle was coming—none of the capstones used this information, after all—but we still didn't have complete information on the puzzles in this section, with two rounds yet to be unlocked.
 
-Not that this was much of a deterrent—Juro had [one of them](https://puzzmon.world/puzzles/let_her_cookbook) within an hour. I had [the other](https://puzzmon.world/puzzles/the_labyrinth) down to a description of the maze-assembling mechanics and was simply wanting for answers to fill the grid with—answers that turned out not to be necessary, for I tabbed out briefly to look at something else and came back to a fully-assembled labyrinth that had for one reason or another failed to extract. So I finished the job and cranked out a list of theoretical backsolve answers.
+Not that this was much of a deterrent—Juro had [one of them](https://puzzmon.world/puzzles/let_her_cookbook) within an hour. I had [another](https://puzzmon.world/puzzles/the_labyrinth) down to a description of the maze-assembling mechanics and was simply wanting for answers to fill the grid with—answers that turned out not to be necessary, for I tabbed out briefly to look at something else and came back to a fully-assembled labyrinth that had for one reason or another failed to extract. So I finished the job and cranked out a list of theoretical backsolve answers.
 
 By now, I was starting to run on fumes, so I traipsed off to bed. Before I fell asleep, I checked for puzzles stuck on extraction; seeing a recent ping on [Point of Divergence](https://puzzmon.world/puzzles/point_of_divergence) and being somewhat intrigued by the title[^divergence], I checked the sheet and then formulated a guess for what the extraction could be based on the title.
 
@@ -222,20 +224,18 @@ Which meant wading through Normandy and its souped-up versions of Aquarium Hunt 
 
 This point is where I depart the land of the hexagons. But I am certain to revisit in the future, and if you haven't seen it and read through anyways despite the spoiler warning I wholly recommend giving it a try... once it's in a postsolvable state again, of course.
 
+So how about a [land of heptagons](https://puzzmon.world/rounds/hyperbolic_space) instead?[^shapes]
+
 <details markdown="1">
 <summary>Spoilers for Hyperbolic Space (and some puzzles within)</summary>
-
-So how about a [land of heptagons](https://puzzmon.world/rounds/hyperbolic_space) instead?[^shapes]
 
 Hyperbolic Space was a round we had unlocked as HQ was closing at the end of the previous night, upon which we saw 4 puzzles with content... and 12 blanks.
 
 One blank puzzle is business as usual—it typically indicates that whatever shenanigans were afoot were typically contained within the puzzle itself. But when blanks come in groups, it could only mean the round's gimmick is backsolving. 
 
-After a brief stint extracting [Had](https://puzzmon.world/puzzles/had) (a zebra puzzle riffing on [the infamous lexically-ambiguous sentence](https://en.wikipedia.org/wiki/James_while_John_had_had_had_had_had_had_had_had_had_had_had_a_better_effect_on_the_teacher)"), I was brought on to the meta. Riley had by now realized that the meta takes place on [a heptagonal tiling of hyperbolic space](https://en.wikipedia.org/wiki/Heptagonal_tiling), and had already put together a small portion of it. 
+After a brief stint extracting [Had](https://puzzmon.world/puzzles/had) (a zebra puzzle riffing on [the infamous lexically-ambiguous sentence](https://en.wikipedia.org/wiki/James_while_John_had_had_had_had_had_had_had_had_had_had_had_a_better_effect_on_the_teacher)), I was brought on to the meta. Riley had by now realized that the meta takes place on [a heptagonal tiling of hyperbolic space](https://en.wikipedia.org/wiki/Heptagonal_tiling), and had already put together a small portion of it. 
 
-Of course, five tiles was nowhere near enough to get anywhere for now, so we rushed down a sixth: [Devilish Devilries](https://puzzmon.world/puzzles/devilish_devilries), a printer's devilry puzzle that turned out to be way funnier than it had any right to be. A lot of time was spent groaning at the phrases we did manage to connect to or whether the phrase "dick move" was sufficiently blue to actually merit inclusion in the puzzle.
-
-Needless to say there were a few failed Wheel-of-Fortune attempts from that.
+Of course, five tiles was nowhere near enough to get anywhere for now, so we rushed down a sixth: [Devilish Devilries](https://puzzmon.world/puzzles/devilish_devilries), a printer's devilry puzzle that turned out to be way funnier than it had any right to be. A lot of time was spent groaning at the phrases we did manage to connect to or whether the phrase "dick move" was sufficiently blue to actually merit inclusion in the puzzle. Needless to say there were a few failed Wheel-of-Fortune attempts from that.
 
 We went back to our meta corner. A seventh puzzle soon joined our other six, and we could, perhaps, finally make some headway in determining the layout.
 
@@ -259,9 +259,9 @@ And as soon as we found suitable answers for the clues, we knew we had hit on th
 
 </details>
 
-We rang in the meta solve after another half hour—our second of seven, having finished off [the Land of No Name](https://puzzmon.world/puzzles/7182) a few hours earlier and having discovered a new "Keepers" category.
+We rang in the meta solve after another half hour—our second of seven, having finished off [the Land of No Name](https://puzzmon.world/puzzles/7182) a few hours earlier and having discovered a new "Keepers" category that spoiled how many there would be.
 
-And while I was almost ready to call it a night, I was informed of [an IPA cryptic crossword](https://puzzmon.world/puzzles/as_the_fly_crows) in a newly-unlocked round. I turned to work on it, and even identify that the other set of clues instead operates on anaglyphs, but a bit later I am distracted by the news that we had completed the last capstone, which finally gave us [the overarching meta](https://puzzmon.world/puzzles/connect_the_clans) for the "main" round, and I decided that took priority.
+And while I was almost ready to call it a night, I was informed of [an IPA cryptic crossword](https://puzzmon.world/puzzles/as_the_fly_crows) in a newly-unlocked round. I turned to work on it, and even identified that a few clues assigned here instead operated on letter shapes, but a bit later I am distracted by the news that we had completed the last capstone, which finally gave us [the overarching meta](https://puzzmon.world/puzzles/connect_the_clans) for the "main" round, and I decided that took priority.
 
 <details markdown="1">
 <summary>Spoilers for Connect the Clans</summary>
@@ -271,6 +271,8 @@ And taking a look at the emblems we had collected across the round, now presente
 I'd seen this exact set before.
 
 ![Is this a f-cking Game of Thrones reference](/assets/mh2026/got.png "[2026-01-18 0206] What the f-ck is a Westeros?")
+
+_Sketch by Riley._
 
 Five years back at my first Mystery Hunt, [another meta](https://puzzles.mit.edu/2021/puzzle/dorm-row/) drew upon the coats of arms from A Song of Ice and Fire for its own ends. And despite almost never engaging with the source material, I remembered the seven used there, and I quickly remembered Greyjoy's squid as one that hadn't been used[^greyjoy]. I get to work and find a dragon to close out the set. The bizarre choice of meta answers starts to turn gears as well, giving me a partial ordering.
 
@@ -332,19 +334,17 @@ By now the hunt strategy had become a game of aggressively and efficiently using
 <details markdown="1">
 <summary>Spoilers for Terminus</summary>
 
-Unfortunately I hadn't been onboarded to how Terminus worked, and any documentation we actualluy had in the sheet wasn't exactly helpful for gleaning this information, so I had to onboard myself for a bit. 
+Unfortunately I hadn't been onboarded to how Terminus worked, and any documentation we actually had in the sheet wasn't exactly helpful for gleaning this information, so instead I had to onboard myself by whacking at the terminal. 
 
 The Terminus round is a classical two-layered round: a meta whose feeders were themselves minimetas. The tricky part comes in the unlocking system, which is a variation on a black box: you give an input, the round checks against a laundry list of conditions to determine which puzzle(s) it unlocks. And while initially I only tried words, I quickly discovered that numbers, emoji, color hex codes (required to be an alphanumeric mixture), slash-separated dates, and "sentences" (space-separated words) were also valid inputs, and in fact the round had specific rules to convert between them automatically.
 
-The diagram in the puzzle, of course, caught my interest immediately—one arrow was colored in blue, the same color that always tinted the word "convert" in the round. Initially, I tried some of our answers, but saw nothing odd. On a whim, and remembering the one answer I actually contributed to in the round, I instead try the date of Operation Overlord.
+The diagram in the puzzle, of course, caught my interest immediately—one arrow was colored in blue, the same color that always tinted the word "convert" in the round. Initially, I tried some of our answers, but saw nothing odd. On a whim, and remembering the one answer I actually contributed to in the round, I instead try June 6, 1944—the date of Operation Overlord, better known as D-Day.
 
 The interface gave me question marks instead of its normal output—a clear indicator that this was on the right path. Inspired, I try more, getting a few before pivoting to finding the necessary conversion rules instead. Cue absolute incredulity when I (re?)discover the rule for converting Date to Integer is just division.
 
 After a short indexing session into a long poem and a failure to remember that A was equal to 0 in this round, I now had six pieces of data... and no idea what to do with them. The hint was not being used at the time, so I threw one in. 
 
-There was some very excited chatter in the background—one of the big puzzles near the start of Glitch had fallen and unlocked [a Quiz Bowl puzzle](https://puzzmon.world/puzzles/these_questions_are_not_clever). This briefly interests me enough to discover it's Before and After again[^oxford], but I'm pulled back into Terminus once the hint returns, telling us to focus on the flavortext and a particular subset of our new data.
-
-Someone soon finds the new data is used to represent winners of the Grammy Award for Best Song; I'm slightly annoyed at the swerve but am too relieved to be done with the puzzle to air it.
+There was some very excited chatter in the background—one of the big puzzles near the start of Glitch had fallen and unlocked [a Quiz Bowl puzzle](https://puzzmon.world/puzzles/these_questions_are_not_clever). This briefly interests me enough to discover it's Before and After again[^oxford], but I'm pulled back into Terminus once the hint returns, telling us to focus on the flavortext and a particular subset of our new data. Someone soon finds the new data is used to represent winners of the Grammy Award for Best Song; I'm slightly annoyed at the swerve but am too relieved to be done with the puzzle to air it.
 
 ---
 
@@ -373,9 +373,11 @@ We quickly find MissingNo and transcribe the information therein. I write down "
 
 </details>
 
-It was 2014. We had finished. Everyone was milling about in celebration and mirth; some of us were fervently hoping that a runaround would happen that night, given the finishing time was just a quarter past the cutoff. I was just too tired and lightheaded by that point to process anything. 
+We had finished. 
 
-The call soon comes, and Juro reports that the runaround was scheduled for 2300. Riley, wanting to move his stuff back to the AirBnB and also needing some time away from the room, asks me to tag along. We spend some time on recharging, reflecting on the hunt and our experiences.
+Everyone was milling about in celebration and mirth; some of us were fervently hoping that a runaround would happen that night, given the finishing time was just a quarter past the cutoff. I was just too tired and lightheaded by that point to process anything. 
+
+The call soon comes, and Juro reports that the runaround was scheduled for 2300. Riley, wanting to move his stuff back to the AirBnB and also needing some time away from the room, asks me to tag along. We spend some time recharging, reflecting on the hunt and our experiences.
 
 I check my phone. Runaround had actually been moved forward by an hour, so our downtime was being cut slightly short.
 
@@ -389,7 +391,7 @@ The room was alive with a spirit I hadn't seen for many years, if at all.
 
 The clock struck midnight just as we finished up and left the room, heralding the start of one last day.
 
-Wrap-up and the interactions that ensued were a much more subdued affair. A quick breakfast, a brief hangout with MIT Puzzle Club past and present, a somewhat expensive lunch with the rest of the team.
+Wrap-up and the interactions that ensued were a much more subdued affair. A quick breakfast, a brief hangout with MIT Puzzle Club past and present, a somewhat expensive lunch with the team and some friends.
 
 A rush of frantic packing, and a flurry of farewells.
 
