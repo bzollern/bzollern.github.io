@@ -27,7 +27,7 @@ I chose not to reside in my typical dorm room this time, instead taking a room a
 
 The night was spent over an excellent home-cooked Chinese dinner, several episodes of Taskmaster, and what I can only describe as good vibes.
 
-![The Chinese dinner in question](../assets/mh2026/food.png "[2026-01-15 2000] [GF]OOD")
+![The Chinese dinner in question](/assets/mh2026/food.png "[2026-01-15 2000] [GF]OOD")
 
 Tomorrow was going to be a great day.
 
@@ -47,7 +47,7 @@ To make a [short story](https://www.youtube.com/watch?v=nC8vCTHuFxk) shorter: on
 
 After kickoff, I took a brief detour to pick up the goodie bag of hunt materials. A bunch of it was stuff stated to be irrelevant—mostly the sponsor merch and the obligatory first-aid kit—but also a pair of blacklights, which scared us slightly, and the name tags, which we quickly noticed were a puzzle and solved before distributing them.
 
-![Nametag](../assets/mh2026/nametag.png "[2026-01-16 1239] The bird is annoyed that I drew him naked, clearly. That or being called a cardinal for the umpteenth time.")
+![Nametag](/assets/mh2026/nametag.png "[2026-01-16 1239] The bird is annoyed that I drew him naked, clearly. That or being called a cardinal for the umpteenth time.")
 
 After that, though, it was just waiting a half-hour for the puzzles to release formally. Besides that, the only thing on the site was a "How to Hunt" video.
 
@@ -57,7 +57,7 @@ After that, though, it was just waiting a half-hour for the puzzles to release f
 
 They made Projection Device 2.
 
-![Projection Device 2](../assets/mh2026/monquest.png "[2026-01-16 1305] Just vibin'")
+![Projection Device 2](/assets/mh2026/monquest.png "[2026-01-16 1305] Just vibin'")
 
 Anyone who knows my puzzle preferences well enough knows that I will sing the praises of the [Projection Device](https://puzzles.mit.edu/2021/projection_device.html) until my throat runs dry. So hearing that Cardinality made another one should have sent me straight over the Moon. And on top of all that they start it off in the [bird zone](https://puzzmon.world/rounds/aviaria)! What's not to like?
 
@@ -87,7 +87,7 @@ And so I led two people down the Infinite and into the Student Center. Looking a
 
 Once I got to HQ I was given two things: a tiny orange envelope and a photo opportunity with the birds... well, bird singular. I didn't know about the latter going in—I just thought it would be funny to pick the reward up as a bird—but whatever works.
 
-![Photo Op](../assets/mh2026/photo.png "[2026-01-16 1545] I wonder if Hawktulpa knows its name has somewhat unpleasant connotations in our world.")
+![Photo Op](/assets/mh2026/photo.png "[2026-01-16 1545] I wonder if Hawktulpa knows its name has somewhat unpleasant connotations in our world.")
 
 I came back just as the team solved the second round's capstone, which unlocked [26 ������� ��� �� ����](https://puzzmon.world/rounds/land_of_no_name)... ����, ����� ��� ��� �� ������� ��.
 
@@ -137,7 +137,7 @@ I can confidently say that having to lip read two phrases (and then mouthing two
 
 I sat back down at my desk. Riley was apparently baffled that the puzzle he was working on had been solved despite only extracting two of its five letters. I was more excited by the fact that it had returned the R to the remaining puzzles, which was six codons' worth of information I could use on Recombination.[^recombination] Surely I could finish the puzzle from here...
 
-![Get backsolved idiot](../assets/mh2026/backsolve.png "[2026-01-16 2234] W��")
+![Get backsolved idiot](/assets/mh2026/backsolve.png "[2026-01-16 2234] W��")
 
 F-ck.
 
@@ -150,7 +150,7 @@ This confused me for a bit, since as far as I could tell there was no other work
 
 I spent the next hour assembling the jigsaw, wound up displacing two of the people who were there first (whoops), and dirtied my claws with a lot of flaky black pigment. In the end, we had our Black Square, after which we turned the lights out on the entire room to get a good picture with our limited blacklight supply.
 
-![Black Square](../assets/mh2026/starry.jpg "[2026-01-16 2332] Malevich could never.")
+![Black Square](/assets/mh2026/starry.jpg "[2026-01-16 2332] Malevich could never.")
 
 The symbols, of course, we understood the moment we laid eyes on them. It took me a while to discern Scorpius from Capricornus, but it sufficed to solve the puzzle in an image editor from there.[^virgo]
 
@@ -208,7 +208,7 @@ So a few ideas, two diagrams for the people confused about what I had found, one
 
 I reenter HQ to a pleasant surprise nestled in the south of the Atlas.
 
-![CONLANG ALERT](../assets/mh2026/conlang.png "[2026-01-17 1532] Ka'pa'a'a'a'a'a'a'a'a'")
+![CONLANG ALERT](/assets/mh2026/conlang.png "[2026-01-17 1532] Ka'pa'a'a'a'a'a'a'a'a'")
 
 I'm a simple bird. I see an [IOL problem](https://puzzmon.world/puzzles/dance_of_the_bumblebee), I do the IOL problem. Nothing special here, just two and a half hours of running through the levels (with a brief interruption for [Jam Session](https://puzzmon.world/puzzles/jam_session)), being pleasantly surprised at JFK's inaugural speech showing up as something I needed to translate, and being unpleasantly surprised that one section was entirely devoted to anti-jokes about birds.[^antijoke]
 
@@ -270,7 +270,7 @@ And taking a look at the emblems we had collected across the round, now presente
 
 I'd seen this exact set before.
 
-![Is this a f-cking Game of Thrones reference](../assets/mh2026/got.png "[2026-01-18 0206] What the f-ck is a Westeros?")
+![Is this a f-cking Game of Thrones reference](/assets/mh2026/got.png "[2026-01-18 0206] What the f-ck is a Westeros?")
 
 Five years back at my first Mystery Hunt, [another meta](https://puzzles.mit.edu/2021/puzzle/dorm-row/) drew upon the coats of arms from A Song of Ice and Fire for its own ends. And despite almost never engaging with the source material, I remembered the seven used there, and I quickly remembered Greyjoy's squid as one that hadn't been used[^greyjoy]. I get to work and find a dragon to close out the set. The bizarre choice of meta answers starts to turn gears as well, giving me a partial ordering.
 
@@ -288,7 +288,7 @@ The morning greets us with a fresh snowfall. I start off by heading to the inter
 
 Except the things we needed to Pictionary were scenes of two PuzzMon interacting with each other in particular ways. Ways that were kind of hard to clue as a static image, but there were plenty of allowances for getting around this.
 
-![Modern Art](../assets/mh2026/swatch.png "[2026-01-18 1100] I'm gonna keep on dancing at the Glimmerpom Club...")
+![Modern Art](/assets/mh2026/swatch.png "[2026-01-18 1100] I'm gonna keep on dancing at the Glimmerpom Club...")
 
 After that, we got to construct a few panels to add to a large mural on the wall, though some of us (read: Juro) were less interested in the artistic content of the mural and more in counting how many panels were there before we came in. Then we got to ask 75 seconds' worth of questions to the "master" of the realm. In between the obvious questions about how well we were doing ("it's complicated") and the obligatory "can we get a free answer" question ("I don't know"), we also asked some... very important lore questions.
 
@@ -357,7 +357,7 @@ Just one round left, but I don't get to contribute to the Quiz Bowl puzzle for l
 
 What I was not expecting the meta to be was a clone of the Connect the Clans meta I solved the previous night. And as soon as I discover the results of the unglitching are the same length as the meta answers, I sigh and pull up the map on the other sheet to do the whole endeavor anew.
 
-![Spreadsheet chaos](../assets/mh2026/cooking.png "[2026-01-18 1957] Hello, Human Resources? I think my coworkers want to eat me.")
+![Spreadsheet chaos](/assets/mh2026/cooking.png "[2026-01-18 1957] Hello, Human Resources? I think my coworkers want to eat me.")
 
 _Do not the bird.[^aluminum]_
 
