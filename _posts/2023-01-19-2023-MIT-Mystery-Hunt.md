@@ -45,7 +45,7 @@ Then came that fateful Friday.
 
 I woke up early that brisk, rainy morning for something for Puzzle Club that it turns out I was not needed for, so I went to socialize with some incoming puzzlers instead. That trip to the Flour on Mass Ave was the first time I've walked north of Vassar Street in quite a while, and putting faces to people I essentially only knew by avatar and username was a nice bonus.
 
-I left early to locate TTBNL HQ and set up a position there, memorizing the route along the way, since I was sure I was going to have to make multiple trips between there and campus. After that, it was off to kickoff. Teammate opens up their museum, they're apparently short-staffed and can't actually open it, something something puzzles solve everything. Also apparently these puzzles were written by an AI. They then start talking about logistics, Wayne from Puzzle Club sneaks in a reference to a furry convention rule, and we're off. I see a group of puzzlers I knew gathering outside and take a picture with them before running back north to HQ.
+I left early to locate TTBNL HQ and set up a position there, memorizing the route along the way, since I was sure I was going to have to make multiple trips between there and campus. After that, it was off to kickoff. Teammate opens up their museum, they're apparently short-staffed and can't actually open it, something something puzzles solve everything. Also apparently these puzzles were written by an AI[^ai]. They then start talking about logistics, Wayne from Puzzle Club sneaks in a reference to a furry convention rule, and we're off. I see a group of puzzlers I knew gathering outside and take a picture with them before running back north to HQ.
 
 After that, it's just waiting 'til the clock strikes 1... 3... 2... 1...
 
@@ -512,6 +512,7 @@ xxx\_\_ <br />
 
 ---
 
+[^ai]: (Footnote added 2026) This is according to the frame story. The puzzles were, of course, written by humans.
 [^owl]: Someone's going to joke about my usage of owl here, I'm sure. Please don't.
 [^bug]: Based on my interactions with the other jigsaw puzzle after the hunt, I think I know what the bug is: the piece started low enough on the page that it was hidden outside clickable range. Zooming out does not fix the issue; while it reveals that the piece exists due to scaling its position, it also immediately rehides it by restoring every piece to its original position and size. Zooming in, on the other hand, explicitly exacerbates the problem.
 [^wargames]: Not the movie, the genre of board games.
