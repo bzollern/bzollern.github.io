@@ -154,6 +154,8 @@ I spent the next hour assembling the jigsaw, wound up displacing two of the peop
 
 ![Black Square](/assets/mh2026/starry.jpg "[2026-01-16 2332] Malevich could never.")
 
+_Photo by Emerson, alias Rook._
+
 The symbols, of course, we understood the moment we laid eyes on them. It took me a while to discern what was what, but it sufficed to solve the puzzle in an image editor from there.[^virgo]
 
 ---
@@ -319,7 +321,7 @@ Of course, cryptics will be cryptics, so we still ended up having some trouble w
 
 We spend a few hours targeting the point of least resistance on Glitch, since the [other](https://puzzmon.world/puzzles/sportsball) [puzzles](https://puzzmon.world/puzzles/14_turns) in the round turned out to be quagmires that had been eating up a considerable amount of manpower. First up was [a puzzle that was very transparently about DNA](https://puzzmon.world/puzzles/oh_my_interesting_alleles), and then after the obvious BLAST search turned out to be more specifically about _cat_ DNA. A simple concept that in practice took about an hour to execute because BLAST searches and counting were both slow and slightly error-prone.
 
-During this solving fest, a couple members of ✈️✈️✈️ Galactic Trendsetters ✈️✈️✈️ (also good friends of ours) then swung by our room for a visit—they had just finished, and only knew that they weren't in first (not that they were aiming for first). Sure enough, an annoucement comes in: Providence had found the coin, HQ would be closing at 1900, and we had until 2000 to finish everything if we wanted a runaround.
+During this solving fest, a couple members of ✈️✈️✈️ Galactic Trendsetters ✈️✈️✈️ (also good friends of ours) then swung by our room for a visit—they had just finished, and only knew that they weren't in first (not that they were aiming for first). Sure enough, an announcement comes in: Providence had found the coin, HQ would be closing at 1900, and we had until 2000 to finish everything if we wanted a runaround.
 
 Then we took on a [crossword](https://puzzmon.world/puzzles/chemical_building_blocks) that all but declared itself to be a ciphered periodic table. With that immediate realization a lot of cursors jumped onto the puzzle to "help", but it wound up devolving into a too many cooks situation as people fought over where precisely each letter was supposed to be placed. Yet it was also a situation that didn't even need the full crossword as much as it needed someone with organic chemistry knowledge.
 
