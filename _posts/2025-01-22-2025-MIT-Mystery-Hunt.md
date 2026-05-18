@@ -234,7 +234,7 @@ Just for fun, I did this part in suit. I tripped over my own feet a few times. W
 
 Eventually we hit the ending near the East Campus construction site. When we got back, I took the map we grabbed earlier and quickly marked off the clue locations and order on it. We then left, because it was half an hour to closing time.
 
-1.5 hours and some patently stupid happenings that I do not wish to recount later, I was back in my dorm, heating dinner and hashing out the remainder of the metameta. We soon discovered the building mapping, but had some trouble getting it to stick (particularly for the Building 13 area, which we later realized was because the paths). Eventually we had the right arrangement, though the fact that the extraction reading in the expected forward direction started RACE... threw us off for a bit.
+1.5 hours and some patently stupid happenings that I do not wish to recount later, I was back in my dorm, heating dinner and hashing out the remainder of the metameta. We soon discovered the building mapping, but had some trouble getting it to stick (particularly for the Building 13 area, which we later realized was because we hadn't considered the buildings on the Outfinite[^outfinite] as a separate path). Eventually we had the right arrangement, though the fact that the extraction reading in the expected forward direction started RACE... threw us off for a bit.
 
 With that done, though, I went to catch my six.
 
@@ -406,7 +406,7 @@ This time we had plenty of time to spare, and got a certificate. Which I then so
 
 The key went to a new puzzle, and the moment someone said the word "Lingo" the entire furry cluster on LAF had jumped on [the puzzle](https://www.two-pi-noir.agency/puzzles/jargon).
 
-...OK, we kind of knew a Lingo puzzle was coming just from incidental commentary. Between collective word knowledge, personal knowledge, and just cheesing the resistor-reading step (once I knew how it would work) by measuring ratios, it got torn apart in 40 minutes. In the meantime, the others had finished off He Shouldn't Have Eaten the Apple, which resulted in a message being blared over the radio. Hearing an interesting historical tidbit, I looked into the answer, to realize it was the same as Bukhansan—a name I recognized from *somewhere*, but wasn't sure where.
+...OK, we kind of knew a Lingo puzzle was coming just from incidental commentary. Between collective word knowledge, personal knowledge, and just cheesing the resistor-reading step (once I knew how it would work) by measuring ratios, it got torn apart in 40 minutes. In the meantime, the others had finished off He Shouldn't Have Eaten the Apple, which resulted in a message being blared over the radio. Hearing an interesting historical tidbit, I looked into the answer, to realize it was the same as Bukhansan—a name I recognized from *somewhere*, but wasn't sure where.[^bukhansan]
 
 Back to Tunic—Ryker (aforementioned fox) had finished the manual step at this point. I started writing the answers out in the hexagon script. Some looked like they were a geometric transformation of another... or at least suspiciously similar to such.
 
@@ -647,11 +647,13 @@ And since ANE scheduled on top of Mystery Hunt again, it's time to confuse liter
 [^casino]: ...yeah, we never noticed the cards on our side being overlapped differently depending on the order. A detail too subtle for discerning eyes.
 [^pidakala]: Literally, since one of the answers was about throwing bull dung.
 [^fermi]: π is approximately the square root of 10, which would make it the optimum if you were actually trying to guess between two orders of magnitude. The numbers in this one were small enough that you probably needed something more precise.
+[^outfinite]: [Footnote added in 2026] Officially the "L. Rafael Reif Innovation Corridor" now, but I don't particularly care for eponymy.
 [^kannada]: I can't believe I didn't recognize the swish on the top wasn't the Telugu checkmark. To atone, I will now write ఠ\_ఠ instead of ಠ\_ಠ in all instances. (Yes, those are derived from the same Brahmi character.)
 [^benches]: OK, like _two_ of the pictures showed Katrina putting something under a bench. None of the others really indicated much though, so we were quite lost on this.
 [^oncampus]: About .5 of which was just spent in the Eastman Lobby looking at progress on Chinatown, but I digress. 
 [^behind]: Though who knows? Unlock order was extremely non-linear in this hunt. On my walks around campus I saw other teams with a certain physical puzzle ages before we got the same puzzle. 
 [^infinite]: Infinite, _n._ The length of time it takes to traverse the length of MIT's Infinite Corridor. Not to be confused with ⊥IW's Infinite Corridor, which is Actually (countably) Infinite.
+[^bukhansan]: Future Adal here: it's The 39 Clues. Hideyoshi stashed a bunch of gold in the mountain or something.
 [^hexagon]: The character is divided into the "hexagon" (vowel) and the "spokes" (consonant) for translational purposes, which definitely didn't help the association.
 [^cain]: A puzzle requiring ordering 100 pages into a cohesive narrative. Still need to solve this sometime.
 [^printer]: A privilege I will lose next year, given I will be out of my MEng by then.
